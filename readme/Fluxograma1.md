@@ -14,8 +14,7 @@ flowchart TB
         dc5[(Outros...)]
      end
     C --> E(4. Aprimoramento das fontes de dados)
-    C --> F(5. Harmonização com classes e termos de padrões já existentes)
-    B --> F
+    B --> F(5. Harmonização com classes e termos de padrões já existentes)
         subgraph Padrões
         direction RL
         G([Padrão IUCN])
