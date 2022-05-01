@@ -28,6 +28,7 @@ flowchart TB
         L{{Proposta de Padrão}}
     end
     F --> Produto1
+    K --> Produto1
     Produto1 --> M(Discussão sobre formas de publicação dos dados)
     subgraph Produto2
         N{{Proposta de Mecanismos de Publicação}}
