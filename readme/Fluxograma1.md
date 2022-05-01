@@ -33,5 +33,6 @@ flowchart TB
     subgraph Produto2
         N{{Proposta de Mecanismos de Publicação}}
     end
+    O(Ferramentas e protocolos de publicação de dados) --> M
     M --> Produto2
 ```
