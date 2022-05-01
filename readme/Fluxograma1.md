@@ -13,9 +13,9 @@ flowchart TB
         dc5[(Outros...)]
      end
     C(Lista de termos que precisam ser sistematizados) --> E(Aprimoramento das fontes de dados)
-    B --> F(Harmonização com classes e termos de padrões já existentes)
     C --> F(Harmonização com classes e termos de padrões já existentes)
-    subgraph Padrões
+    B --> F(Harmonização com classes e termos de padrões já existentes)
+        subgraph Padrões
         direction RL
         G(Padrão IUCN)
         H(Padrão DwC e extensões)
