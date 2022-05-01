@@ -20,5 +20,3 @@ Dalcin
 6. Eventualmente algum atributo presente nas bases (ou demandado pelo MMA) não terá correspondente com os padrões analisados. Novas classes e termos serão definidos pela "Pessoa #2".
 7. O resultado destas duas ações gera o primeiro produto (em laranja) que é a "proposta de padrão para espécies ameaçadas do MMA";
 8. Por fim, o GT discute as formas de implementação, definindo um piloto, e consolida o segundo produto, que é a "proposta de mecanismos de publicação".
-
-\
