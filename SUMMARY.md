@@ -1,7 +1,8 @@
 # Table of contents
 
 * [MMA-Ameaçadas](README.md)
-  * [Fluxograma](readme/fluxograma.md)
+  * [Fluxograma](readme/fluxograma/README.md)
+    * [1.Recursos](readme/fluxograma/1.recursos.md)
   * [Memória de e-mails](readme/memoria-de-e-mails/README.md)
     * [de Eduardo Dalcin - 25/06/21](readme/memoria-de-e-mails/de-eduardo-dalcin-25-06-21.md)
     * [de Eduardo Dalcin - 25/06/21 (b)](readme/memoria-de-e-mails/de-eduardo-dalcin-25-06-21-b.md)
