@@ -1,6 +1,6 @@
 # Fluxograma
 
-### [Fluxo de Trabalho](./) <a href="#https-github.com-edalcin-mma-ameacadas-blob-main-readme-fluxograma-readme.md" id="https-github.com-edalcin-mma-ameacadas-blob-main-readme-fluxograma-readme.md"></a>
+[Fluxo de trabalho](./)
 
 ```mermaid
 flowchart TB
