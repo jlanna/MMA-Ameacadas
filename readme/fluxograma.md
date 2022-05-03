@@ -4,10 +4,8 @@
 
 ```mermaid
 flowchart TB
-    A{{1. Oficina de Critica do MMA}} --> B>2. Lista de Termos para padronização]
-    A --> C>3. Lista de termos que precisam ser sistematizados]
-    Recursos --> A
-    subgraph Recursos
+    %% define os recursos existentes que precisam ter seus termos levantados e compilados
+    subgraph 1.Recursos
         direction RL    
         dc1[(Dicionario de Dados do CNCFlora)]
         dc2[(Dicionário de Dados SALVE)]
@@ -15,6 +13,12 @@ flowchart TB
         dc4[(Dicionário de Dados do Catálogo da Fauna)]
         dc5[(Outros...)]
      end
+    1.Recursos --> B>2. Lista de Termos Preliminar]
+    B --> A
+    A{{2. Oficina de Critica do MMA}} --> C>4. Lista de termos que precisam ser sistematizados]
+
+    P>3. Lista de Termos Acordada]
+    A --> P
     C --> E(4. Aprimoramento das fontes de dados)
     B --> F(5. Harmonização com classes e termos de padrões já existentes)
         subgraph Padrões
