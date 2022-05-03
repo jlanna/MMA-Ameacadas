@@ -3,6 +3,7 @@
 * [MMA-Ameaçadas](README.md)
   * [Fluxograma](readme/fluxograma/README.md)
     * [1.Recursos](readme/fluxograma/1.recursos.md)
+    * [2.Lista de Termos Preliminar](readme/fluxograma/2.lista-de-termos-preliminar.md)
   * [Memória de e-mails](readme/memoria-de-e-mails/README.md)
     * [de Eduardo Dalcin - 25/06/21](readme/memoria-de-e-mails/de-eduardo-dalcin-25-06-21.md)
     * [de Eduardo Dalcin - 25/06/21 (b)](readme/memoria-de-e-mails/de-eduardo-dalcin-25-06-21-b.md)
