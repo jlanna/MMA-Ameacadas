@@ -1,6 +1,5 @@
 ---
 description: Consultoria João Lana - 2022
-layout: landing
 ---
 
 # MMA-Ameaçadas
