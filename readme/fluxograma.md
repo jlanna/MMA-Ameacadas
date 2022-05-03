@@ -1,10 +1,6 @@
----
-description: https://github.com/edalcin/MMA-Ameacadas/blob/main/readme/fluxograma.md
----
-
 # Fluxograma
 
-### Fluxo de Trabalho
+### [Fluxo de Trabalho](fluxograma.md)
 
 ```mermaid
 flowchart TB
