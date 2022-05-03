@@ -14,7 +14,7 @@ flowchart TB
         dc4[(Dicionário de Dados do Catálogo da Fauna)]
         dc5[(Outros...)]
      end
-    click 1.Recursos "https://eduardo-dalcin.gitbook.io/mma-ameacadas/readme/fluxograma/1.recursos"
+    click 1.Recursos href "https://eduardo-dalcin.gitbook.io/mma-ameacadas/readme/fluxograma/1.recursos" "Recursos"
 
     %% geração do produto (2) 
     1.Recursos --> 2>2. Lista de Termos Preliminar]
