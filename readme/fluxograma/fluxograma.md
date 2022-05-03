@@ -19,6 +19,8 @@ flowchart TB
     %% geração do produto (2) 
     1.Recursos --> 2>2. Lista de Termos Preliminar]
 
+    click 2 "http://www.github.com" _blank
+
     %% produto (2) alimenta a oficina do MMA para critica aos termos existentes (3)
     2 --> 3{{3. Oficina de Critica do MMA}}
 
