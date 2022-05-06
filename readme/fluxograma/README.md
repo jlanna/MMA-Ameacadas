@@ -28,8 +28,6 @@ flowchart TB
     %% a lista de termos que é demandada mas não está presente nos recursos alimenta um o aprimoramento das fontes de dados (7)
     4 --> 7(7. Aprimoramento das fontes de dados)
     
-
-
     %% a lista de termos acordada na oficina (5) alimenta a ação de harmonização dos termos com os padrões existentes (8), na ação (6)
     5 --> 6(6. Harmonização com classes e termos de padrões já existentes)
 
