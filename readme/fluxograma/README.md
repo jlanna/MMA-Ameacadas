@@ -8,11 +8,25 @@ flowchart TB
     %% define os recursos existentes que precisam ter seus termos levantados e compilados
     subgraph 1.Recursos
         direction RL    
-        dc1[(Dicionario de Dados do CNCFlora)]
-        dc2[(Dicionário de Dados SALVE)]
-        dc3[(Dicionário de Dados da Flora do Brasil)]
-        dc4[(Dicionário de Dados do Catálogo da Fauna)]
-        dc5[(Outros...)]
+        subgraph 1.1.CNCFlora
+            direction TB
+            rec1(IPT-DwC-A)
+            rec2(Conjunto de Dados IUCN)
+            rec3(WebService)
+        end
+        subgraph 1.2.SALVE
+            direction TB
+            rec4(?)
+        end
+        subgraph 1.3.Flora do Brasil
+            direction TB
+            rec5(IPT-DwC-A)
+            rec6(WebService)
+        end
+        subgraph 1.4.Catálogo da Fauna
+            direction TB
+            rec8(WebService)
+        end
      end
     
     %% geração do produto (2) 
