@@ -6,7 +6,7 @@
 flowchart TB
     
     %% define os recursos existentes que precisam ter seus termos levantados e compilados
-    subgraph 1.Recursos
+    subgraph 0.Recursos
         direction RL    
         subgraph 1.1.CNCFlora
             direction TB
@@ -29,8 +29,11 @@ flowchart TB
         end
      end
     
+    %% oficina de demanda do MMA
+    1{{1.Oficina de Demanda do MMA/DESP}} --> 3
+    
     %% geração do produto (2) 
-    1.Recursos --> 2>2. Lista de Termos Preliminar]
+    0.Recursos -- 2W --> 2>2. Lista de Termos Preliminar]
 
     %% produto (2) alimenta a oficina do MMA para critica aos termos existentes (3)
     2 --> 3{{3. Oficina de Critica do MMA}}
