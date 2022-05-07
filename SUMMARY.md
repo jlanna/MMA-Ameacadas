@@ -1,6 +1,7 @@
 # Table of contents
 
 * [MMA-Ameaçadas](README.md)
+  * [Plano de Trabalho](readme/plano-de-trabalho.md)
   * [Fluxograma](readme/fluxograma/README.md)
     * [1.Recursos](readme/fluxograma/1.recursos.md)
     * [2.Lista de Termos Preliminar](readme/fluxograma/2.lista-de-termos-preliminar.md)
