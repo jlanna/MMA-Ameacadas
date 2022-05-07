@@ -1,6 +1,6 @@
 # Fluxograma
 
-[Fluxo de trabalho](./)
+[Fluxo de trabalho](fluxograma.md)
 
 ```mermaid
 flowchart TB
