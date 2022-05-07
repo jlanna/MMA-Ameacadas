@@ -58,7 +58,7 @@ A oficina de demandas do MMA/DESP será onde o "estudo de caso de interoperabili
 
 As demandas por dados e informações são motivadas, na maioria das vezes, como por exemplo, pela elaboração de [relatórios periódicos contendo informações acerca da implementação da Convenção sobre Diversidade Biológica (CDB)](https://antigo.mma.gov.br/biodiversidade/conven%C3%A7%C3%A3o-da-diversidade-biol%C3%B3gica/relatorios-brasileiros.html), que é um compromisso assumido pelo Brasil como membro da Convenção previsto no Artigo 26 da CDB (ratificada e promulgada pelo Decreto Federal nº 2.519/1998).
 
-Outras atividades que demandam dados e informações sobre espécies ameaçadas, como por exermplo, a elaboração da [Estratégia e Plano de Ação Nacionais para a Biodiversidade – EPANB](https://antigo.mma.gov.br/biodiversidade/conven%C3%A7%C3%A3o-da-diversidade-biol%C3%B3gica/estrat%C3%A9gia-e-plano-de-a%C3%A7%C3%A3o-nacionais-para-a-biodiversidade-epanb.html) e dos Indicadores das Metas Nacionais de Biodiversidade.
+Outras atividades que demandam dados e informações sobre espécies ameaçadas, como por exermplo, a elaboração da [Estratégia e Plano de Ação Nacionais para a Biodiversidade – EPANB](https://antigo.mma.gov.br/biodiversidade/conven%C3%A7%C3%A3o-da-diversidade-biol%C3%B3gica/estrat%C3%A9gia-e-plano-de-a%C3%A7%C3%A3o-nacionais-para-a-biodiversidade-epanb.html), e dos Indicadores das Metas Nacionais de Biodiversidade.
 
 Neste contexto, **a oficina irá definir o foco do estudo de caso, e com base neste foco, as demandas por dados e informações**.
 
