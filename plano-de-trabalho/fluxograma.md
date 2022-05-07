@@ -33,20 +33,22 @@ flowchart TB
     2{{Oficina de Demanda do MMA/DESP}} --> 4
     
     %% geração do produto (3) 
-    Recursos --> 3>Lista de Termos Preliminar]
+    Recursos --> 3>Lista de Termos dos Recursos]
 
     %% produto (3) alimenta a oficina do MMA para critica aos termos existentes (4)
     3 --> 4{{Oficina de Critica do MMA}}
 
     %% a oficina (4) tem como resultado uma lista de termos acordada (6) e uma lista de termos que é demandada pelo MMA mas não está presente nos recursos (5)
     4 --> 5>Lista de termos que precisam ser sistematizados]
-    4 --> 6>Lista de Termos Acordada]
+    4 --> 6>Lista de Termos Preliminar]
 
     %% a lista de termos que é demandada mas não está presente nos recursos (5)alimenta um o aprimoramento das fontes de dados (8)
     5 --> 8(Aprimoramento das fontes de dados)
     
     %% a lista de termos acordada na oficina (6) alimenta a ação de harmonização dos termos com os padrões existentes (9), na ação (7)
     6 --> 7(Harmonização com classes e termos de padrões já existentes)
+    7 --> 15{{Oficina para elaborar a Lista de Termos Acordada}}
+    15  --> Produto1
 
     %% bloco dos padrões existentes (9)
     subgraph Padrões
@@ -64,7 +66,7 @@ flowchart TB
     subgraph Produto1
         11>Proposta de Padrão]
     end
-    7 --> Produto1
+    
     10 --> Produto1
 
     %% o Produto1 alimenta a oficina para definição dos mecanimos de publicação
