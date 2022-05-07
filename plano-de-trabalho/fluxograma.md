@@ -11,22 +11,22 @@ flowchart TB
         direction RL    
         subgraph CNCFlora
             direction TB
-            rec1(IPT-DwC-A)
-            rec2(Conjunto de Dados IUCN)
-            rec3(WebService)
+            rec1([IPT-DwC-A])
+            rec2([Conjunto de Dados IUCN])
+            rec3([WebService])
         end
         subgraph SALVE
             direction TB
-            rec4(?)
+            rec4([?])
         end
         subgraph Flora do Brasil
             direction TB
-            rec5(IPT-DwC-A)
-            rec6(WebService)
+            rec5([IPT-DwC-A])
+            rec6([WebService])
         end
         subgraph Catálogo da Fauna
             direction TB
-            rec8(WebService)
+            rec8([WebService])
         end
      end
     
