@@ -4,7 +4,8 @@
 
 ```mermaid
 flowchart TB
-    
+    %% Fluxo de trabalho da Consultoria
+
     %% define os recursos existentes que precisam ter seus termos levantados e compilados
     subgraph Recursos
         direction RL    
@@ -29,26 +30,20 @@ flowchart TB
         end
      end
     
-    %% oficina de demanda do MMA
-    2{{Oficina de Demanda do MMA/DESP}} --> 4
     
-    %% geração do produto (3) 
+    %% a oficina 2 gera o produto produto 16 
+    2{{Oficina de Demanda do MMA/DESP}} --> 16>Lista de termos gerados na oficina de demanda]
+
+    %% os recursos existentes geram uma lista de termos - produto 3
     Recursos --> 3>Lista de Termos dos Recursos]
 
-    %% produto (3) alimenta a oficina do MMA para critica aos termos existentes (4)
-    3 --> 4{{Oficina de Critica do MMA}}
+    %% os produto 3 e 16 alimentam a oficina de consolidação dos termos (4) com a lista dos termos provenientes dos recursos (3) e a lista de termos demandados na oficina do MMA/DESP (16)
+    3 --> 4{{Oficina para consolidação dos termos demandados e presentes nos recursos}}
+    16 --> 4
 
-    %% a oficina (4) tem como resultado uma lista de termos acordada (6) e uma lista de termos que é demandada pelo MMA mas não está presente nos recursos (5)
+    %% a oficina de consolidação (4) tem como resultado uma lista de termos preliminar (6) e uma lista de termos que é demandada pelo MMA mas não está presente nos recursos (5)
     4 --> 5>Lista de termos que precisam ser sistematizados]
     4 --> 6>Lista de Termos Preliminar]
-
-    %% a lista de termos que é demandada mas não está presente nos recursos (5)alimenta um o aprimoramento das fontes de dados (8)
-    5 --> 8(Aprimoramento das fontes de dados)
-    
-    %% a lista de termos acordada na oficina (6) alimenta a ação de harmonização dos termos com os padrões existentes (9), na ação (7)
-    6 --> 7(Harmonização com classes e termos de padrões já existentes)
-    7 --> 15{{Oficina para elaborar a Lista de Termos Acordada}}
-    15  --> Produto1
 
     %% bloco dos padrões existentes (9)
     subgraph Padrões
@@ -57,7 +52,22 @@ flowchart TB
         H([Padrão DwC e extensões])
         I([Outros padrões])
     end
+    
+
+    %% os produtos da oficina de consolidação (4) - a saber: a lista de termos preliminar (6) e a lista de termos que precisam ser sistematizados (5) alimentam a ação de harmonização (7).
+    6 --> 7(Harmonização com classes e termos de padrões já existentes)
+    5 --> 7 
     Padrões --> 7
+
+    %% a ação de harmonização gera uma lista de termos consolidados e acordados (17) e uma lista de termos que não existe nos padrões e precisam ser definidos em um novo padrão
+    7 --> 17>Lista de termos harmonizados e consolidados]
+
+    %% esta lista de termos harmonizados e consolidados (17), assim como a lista de classes e termos que não estão nos padrões existentes e precisam ser definidos, alimenta a oficina para a elaboração da lista de termos acordados, que irá, em última instância, gerar o Produto1 - a proposta de padrão
+
+    17 --> 15{{Oficina para elaborar a Lista de Termos Acordada}}
+    10 --> 15
+    15  --> Produto1
+
 
     %% a ação de harmonização irá encontrar classes e termos demandados que não estão presentes em nenhum padrão, gerando a necessidade de sistematizar essas classes e termos em um relatório (10)
     7 --> 10>Classes e termos que não estão nos padrões considerados]
@@ -67,8 +77,6 @@ flowchart TB
         11>Proposta de Padrão]
     end
     
-    10 --> Produto1
-
     %% o Produto1 alimenta a oficina para definição dos mecanimos de publicação
     Produto1 --> 12{{Oficina de definição dos mecanismos de publicação dos dados}}
 
