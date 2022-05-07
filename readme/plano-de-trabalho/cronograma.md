@@ -2,8 +2,8 @@
 
 |    | Mês 1 | Mês 2 | Mês 3 | Mês 4 | Mês 5 | Mês 6 |
 | :- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Definição dos Recursos | X |   |   |   |   | X |
-|   |   |   |   |   |   |   |
+| Definição dos Recursos | X |   |   |   |   |   |
+| Oficina de demanda do MMA/DESP |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |

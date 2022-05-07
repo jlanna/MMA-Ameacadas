@@ -52,26 +52,28 @@ Os conjuntos de dados enviados para a IUCN são os dados mais recentes ofertados
 
 ---
 
-## Oficina de demanda do MMA/DESP
+## Realização da Oficina de Demanda do MMA/DESP
 
-## Lista de termos preliminar
+## Elaboração da **Lista de Termos Preliminar**
 
-## Oficina de fechamento dos termos
+## Realização da oficina de fechamento dos termos
 
-## Padrões
+## Elaboração da **Lista de termos Acordada**
 
-## Lista de termos acordada
+## Definição dos padrões de dados e metadados
 
-## Lista de termos demandados
+## Harmonização da **Lista de Termos Acordada** com padrões existentes
 
-## Harmonização com padrões existentes
+### Classes e termos não harmonizados
 
-## Classes e termos não harmonizados
+## Elaboração da **Proposta de Padrão de Dados para Espécies Ameaçadas**
 
-## Proposta de padrão de dados
-
-## Mecanismos de publicação de dados
+## Definição dos mecanismos de publicação de dados
 
 ## Oficina de definição dos mecanismos
 
-## Proposta de mecanismos de publicação
+## Elaboração da **Proposta de Mecanismos de Publicação**
+
+## Oficina de Conclusão
+
+### Encaminhamentos e próximos passos
