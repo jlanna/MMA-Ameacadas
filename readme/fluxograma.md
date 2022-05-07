@@ -6,78 +6,78 @@
 flowchart TB
     
     %% define os recursos existentes que precisam ter seus termos levantados e compilados
-    subgraph 0.Recursos
+    subgraph Recursos
         direction RL    
-        subgraph 1.1.CNCFlora
+        subgraph CNCFlora
             direction TB
             rec1(IPT-DwC-A)
             rec2(Conjunto de Dados IUCN)
             rec3(WebService)
         end
-        subgraph 1.2.SALVE
+        subgraph SALVE
             direction TB
             rec4(?)
         end
-        subgraph 1.3.Flora do Brasil
+        subgraph Flora do Brasil
             direction TB
             rec5(IPT-DwC-A)
             rec6(WebService)
         end
-        subgraph 1.4.Catálogo da Fauna
+        subgraph Catálogo da Fauna
             direction TB
             rec8(WebService)
         end
      end
     
     %% oficina de demanda do MMA
-    1{{1.Oficina de Demanda do MMA/DESP}} --> 3
+    2{{Oficina de Demanda do MMA/DESP}} --> 4
     
-    %% geração do produto (2) 
-    0.Recursos -- 2W --> 2>2. Lista de Termos Preliminar]
+    %% geração do produto (3) 
+    Recursos --> 3>Lista de Termos Preliminar]
 
-    %% produto (2) alimenta a oficina do MMA para critica aos termos existentes (3)
-    2 --> 3{{3. Oficina de Critica do MMA}}
+    %% produto (3) alimenta a oficina do MMA para critica aos termos existentes (4)
+    3 --> 4{{Oficina de Critica do MMA}}
 
-    %% a oficina (3) tem como resultado uma lista de termos acordada (5) e uma lista de termos que é demandada pelo MMA mas não está presente nos recursos (4)
-    3 --> 4>4. Lista de termos que precisam ser sistematizados]
-    3 --> 5>5. Lista de Termos Acordada]
+    %% a oficina (4) tem como resultado uma lista de termos acordada (6) e uma lista de termos que é demandada pelo MMA mas não está presente nos recursos (5)
+    4 --> 5>Lista de termos que precisam ser sistematizados]
+    4 --> 6>Lista de Termos Acordada]
 
-    %% a lista de termos que é demandada mas não está presente nos recursos alimenta um o aprimoramento das fontes de dados (7)
-    4 --> 7(7. Aprimoramento das fontes de dados)
+    %% a lista de termos que é demandada mas não está presente nos recursos (5)alimenta um o aprimoramento das fontes de dados (8)
+    5 --> 8(Aprimoramento das fontes de dados)
     
-    %% a lista de termos acordada na oficina (5) alimenta a ação de harmonização dos termos com os padrões existentes (8), na ação (6)
-    5 --> 6(6. Harmonização com classes e termos de padrões já existentes)
+    %% a lista de termos acordada na oficina (6) alimenta a ação de harmonização dos termos com os padrões existentes (9), na ação (7)
+    6 --> 7(Harmonização com classes e termos de padrões já existentes)
 
-    %% bloco dos padrões existentes (8)
-    subgraph 8.Padrões
+    %% bloco dos padrões existentes (9)
+    subgraph Padrões
         direction RL
         G([Padrão IUCN])
         H([Padrão DwC e extensões])
         I([Outros padrões])
     end
-    8.Padrões --> 6
+    Padrões --> 7
 
-    %% a ação de harmonização irá encontrar classes e termos demandados que não estão presentes em nenhum padrão, gerando a necessidade de sistematizar essas classes e termos em um relatório (9)
-    6 --> 9>9. Classes e termos que não estão nos padrões considerados]
+    %% a ação de harmonização irá encontrar classes e termos demandados que não estão presentes em nenhum padrão, gerando a necessidade de sistematizar essas classes e termos em um relatório (10)
+    7 --> 10>Classes e termos que não estão nos padrões considerados]
 
     %% o Produto1 é gerado pela compilação das classes e termos presentes nos padrões existentes e por um novo conjunto de classes e termos, não presentes nos padrões mas demandados pelo MMA
     subgraph Produto1
-        10>10. Proposta de Padrão]
+        11>Proposta de Padrão]
     end
-    6 --> Produto1
-    9 --> Produto1
+    7 --> Produto1
+    10 --> Produto1
 
     %% o Produto1 alimenta a oficina para definição dos mecanimos de publicação
-    Produto1 --> 11{{11. Oficina de definição dos mecanismos de publicação dos dados}}
+    Produto1 --> 12{{Oficina de definição dos mecanismos de publicação dos dados}}
 
-    %% ferramentas e protocolos de publicação de dados também alimenta a oficina 11
-    12(12. Ferramentas e protocolos de publicação de dados) --> 11
+    %% ferramentas e protocolos de publicação de dados também alimenta a oficina 13
+    13(Ferramentas e protocolos de publicação de dados) --> 12
 
-    %% a oficina 12 gera a proposta de mecanismos de publicação
+    %% a oficina 13 gera a proposta de mecanismos de publicação
     subgraph Produto2
-        13>13. Proposta de Mecanismos de Publicação]
+        14>Proposta de Mecanismos de Publicação]
     end
-    11 --> Produto2
+    12 --> Produto2
 ```
 
 #### Legenda
