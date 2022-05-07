@@ -64,7 +64,7 @@ Neste contexto, **a oficina irá definir o foco do estudo de caso, e com base ne
 
 ## Elaboração da **Lista de Termos Preliminar**
 
-Como resultado da *Oficina de Demandas do MMA/DESP*
+Como resultado da [*Oficina de Demandas do MMA/DESP*](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#realiza%C3%A7%C3%A3o-da-oficina-de-demandas-do-mmadesp)
 
 ## Realização da oficina de fechamento dos termos
 
