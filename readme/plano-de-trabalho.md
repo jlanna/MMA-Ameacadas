@@ -1,5 +1,7 @@
 # Plano de Trabalho
 
+[Fluxo de trabalho](fluxograma.md)
+
 ## Recursos
 
 ### [CNCFlora](http://cncflora.jbrj.gov.br)
@@ -51,5 +53,3 @@ Os conjuntos de dados enviados para a IUCN são os dados mais recentes ofertados
 ## Oficina de definição dos mecanismos
 
 ## Proposta de mecanismos de publicação
-
-
