@@ -2,6 +2,7 @@
 
 * [MMA-Ameaçadas](README.md)
   * [Plano de Trabalho](readme/plano-de-trabalho.md)
+    * [Cronograma](readme/plano-de-trabalho/cronograma.md)
     * [Fluxograma](readme/fluxograma.md)
   * [Memória de e-mails](readme/memoria-de-e-mails/README.md)
     * [de Eduardo Dalcin - 25/06/21](readme/memoria-de-e-mails/de-eduardo-dalcin-25-06-21.md)
