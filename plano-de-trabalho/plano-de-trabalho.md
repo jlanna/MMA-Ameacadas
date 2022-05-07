@@ -52,7 +52,9 @@ Os conjuntos de dados enviados para a IUCN são os dados mais recentes ofertados
 
 ---
 
-## Realização da Oficina de Demanda do MMA/DESP
+## Realização da Oficina de Demandas do MMA/DESP
+
+A oficina de demandas do MMA/DESP será onde o "estudo de caso de interoperabilidade" será definido.
 
 ## Elaboração da **Lista de Termos Preliminar**
 
