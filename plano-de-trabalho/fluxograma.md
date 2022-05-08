@@ -58,7 +58,7 @@ flowchart TB
     16 --> 4
 
     %% a oficina de consolidação (4) tem como resultado uma lista de termos preliminar (6) e uma lista de termos que é demandada pelo MMA mas não está presente nos recursos (5)
-    4 --> 5>Lista de termos que precisam ser sistematizados]
+    4 --> 5>Lista de termos que necessitam de sistematização]
     4 --> 6>Lista de Termos Preliminar]
 
     %% bloco dos padrões existentes (9)
