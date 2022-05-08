@@ -5,6 +5,21 @@
 ```mermaid
 flowchart TB
     %% Fluxo de trabalho da Consultoria
+    %%Configs
+    style 3 fill:#f96
+    style 5 fill:#f96
+    style 6 fill:#f96
+    style 16 fill:#f96
+    style 10 fill:#f96
+    style 17 fill:#f96
+    style 2 fill:#0fe
+    style 4 fill:#0fe
+    style 15 fill:#0fe
+    style 12 fill:#0fe
+    style 18 fill:#0fe
+    style Produto1 fill:#bdf
+    style Produto2 fill:#bdf 
+
 
     %% define os recursos existentes que precisam ter seus termos levantados e compilados
     subgraph Recursos
@@ -36,6 +51,7 @@ flowchart TB
 
     %% os recursos existentes geram uma lista de termos - produto 3
     Recursos --> 3>Lista de Termos dos Recursos]
+
 
     %% os produto 3 e 16 alimentam a oficina de consolidação dos termos (4) com a lista dos termos provenientes dos recursos (3) e a lista de termos demandados na oficina do MMA/DESP (16)
     3 --> 4{{Oficina para consolidação dos termos demandados e presentes nos recursos}}
@@ -88,6 +104,8 @@ flowchart TB
         14>Proposta de Mecanismos de Publicação]
     end
     12 --> Produto2
+    Produto1 --> 18{{Oficina de Encerramento}}
+    Produto2 --> 18{{Oficina de Encerramento}}
 ```
 
 #### Legenda
