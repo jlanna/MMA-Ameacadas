@@ -74,16 +74,16 @@
 
 ## 5. Harmonização das listas de termos com os padrões de dados existentes
 
-   As listas preliminar e de termos que necessitam de sistematização serão comparadas com os padrões de dados e metadados existentes
+   As listas preliminar e de termos que necessitam de sistematização serão comparadas com os padrões de dados e metadados existentes para que possam gerar uma **Lista de Termos Acordada**, representando a demanda por dados de espécies ameaçadas associada aos padrões de dados existentes. Esta lista harmonizada será usada como subsídio da Oficina para elaboração da **Lista de Termos Acordada**.
 
 ## 6. Realização da Oficina para elaboração da **Lista de Termos Acordada**
 
-## 7. Elaboração da **Proposta de Padrão de Dados para Espécies Ameaçadas**
+   Esta oficina irá avaliar e validar a lista de termos harmonizada com os padrões existentes para definição da **Proposta de Padrão de Dados para Espécies Ameaçadas**
 
-## 8. Definição das ferramentas e protocolos para publicação de dados
+## 7. Definição das ferramentas e protocolos para publicação de dados
 
-## 9. Realização da Oficina de definição dos mecanismos de publicação
+## 8. Realização da Oficina de definição dos mecanismos de publicação
 
-## 10. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
+## 9. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
 
-## 11. Realização da Oficina de Encerramento
+## 10. Realização da Oficina de Encerramento
