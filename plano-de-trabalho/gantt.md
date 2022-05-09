@@ -5,7 +5,7 @@ gantt
     todayMarker on
     title Plano de Trabalho
     excludes weekends
-    Compilar termos dos recursos :t1, 01/06/22, 15d
+    Sistematização dos termos presentes nos recursos :t1, 01/06/22, 15d
     Organizar oficina de demandas :t2, 01/06/22, 15d
     Oficina de demandas :milestone,0d
     Compilar termos da oficina de demandas :t3, after t2, 1w

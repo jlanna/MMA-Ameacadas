@@ -45,13 +45,14 @@ flowchart TB
         end
      end
     
+    %% a partir dos recursos, ação de compilar os termos dos recursos
+    Recursos --> 19(Sistematização dos termos presentes nos recursos)
+
+    %% os recursos existentes geram uma lista de termos - produto 3
+    19 --> 3>Lista de Termos dos Recursos]
     
     %% a oficina 2 gera o produto produto 16 
     2{{Oficina de Demanda do MMA/DESP}} --> 16>Lista de termos gerados na oficina de demanda]
-
-    %% os recursos existentes geram uma lista de termos - produto 3
-    Recursos --> 3>Lista de Termos dos Recursos]
-
 
     %% os produto 3 e 16 alimentam a oficina de consolidação dos termos (4) com a lista dos termos provenientes dos recursos (3) e a lista de termos demandados na oficina do MMA/DESP (16)
     3 --> 4{{Oficina para consolidação dos termos demandados e presentes nos recursos}}

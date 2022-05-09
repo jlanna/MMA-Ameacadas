@@ -52,6 +52,9 @@
 
    ---
 
+   Os termos e classes presentes nestes recursos serão sistematizados, gerando uma **Lista de Termos dos Recursos**.
+
+
 ## 2. Realização da Oficina de Demandas do MMA/DESP
 
    A oficina de demandas do MMA/DESP será onde o "estudo de caso de interoperabilidade" será definido.
@@ -64,7 +67,7 @@
 
 ## 3. Elaboração da **Lista de Termos Preliminar** e da **Lista de Termos que Necessitam de Sistematização**
 
-   Como resultado da [*Oficina de Demandas do MMA/DESP*](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#realiza%C3%A7%C3%A3o-da-oficina-de-demandas-do-mmadesp) uma **Lista de Termos Preliminar** será elaborada, contendo os termos demandados, organizados em "classes", representando conjuntos de dados que hoje estão sendo tratados pelos recursos - sistemas de informação - existentes.
+   Como resultado da [*Oficina de Demandas do MMA/DESP*](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#realiza%C3%A7%C3%A3o-da-oficina-de-demandas-do-mmadesp) e da sistematização a **Lista de Termos dos Recursos** uma **Lista de Termos Preliminar** será elaborada, contendo os termos demandados, organizados em "classes", representando conjuntos de dados que hoje estão sendo tratados pelos recursos - sistemas de informação - existentes.
 
    A **Lista de Termos que Necessitam de Sistematização** representa conjuntos de dados, levantados na oficina, que não estão sendo tratados nem ofertados pelor sistemas de informação atualmente.
 
