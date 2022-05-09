@@ -85,6 +85,8 @@
 
 ## 7. Definição das ferramentas e protocolos para publicação de dados
 
+   Um conjunto de mecanismos de publicação de dados já encontra-se em produção nas diferentes instituições responsáveis pelos sistemas de informação que gereciam os recursos de informação sobre espécies ameaçadas.
+
 ## 8. Realização da Oficina de definição dos mecanismos de publicação
 
 ## 9. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
