@@ -1,2 +1,0 @@
-# Memória de reuniões
-
