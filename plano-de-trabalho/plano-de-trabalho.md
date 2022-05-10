@@ -77,11 +77,23 @@
    
    ---
   
- ## 3. Realização da Oficina de Consolidação de Demandas do CNCFlora/JBRJ e SALVE/ICMBio
+ ## 3. Realização da Oficina de consolidação dos termos demandados e presentes nos recursos
 
    A oficina de consolidação de demandas das vinculadas ao MMA terá a participação de, além dos membros do MMA/DESP participantes da primeira oficina, membros do CNFlora/JBRJ e SALVE/ICMBio responsáveis pelo desenvolvimento dos sistemas e pela gestão de informação sobre biodiversidade. 
    
-   As demandas compiladas na primeira oficina geraram listas de termos que agora são encaminhadas para   
+   As demandas compiladas na primeira oficina geraram listas de termos que agora são encaminhadas para consolidação e consulta de ofertas "ocultas" nas bases de dados de cada sistema. Serão considerados ajustes nas ofertas dos sistemas de informação.
+   
+     ---
+
+   ### 3.1. Compilação de termos da Oficina de Demandas do MMA/DESP
+   
+   #### Elaboração da **Lista de Termos Preliminar** e da **Lista de Termos que Necessitam de Sistematização**
+
+   Como resultado da [*Oficina de Demandas do MMA/DESP*](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#realiza%C3%A7%C3%A3o-da-oficina-de-demandas-do-mmadesp) e da sistematização a **Lista de Termos dos Recursos** uma **Lista de Termos Preliminar** será elaborada, contendo os termos demandados, organizados em "classes", representando conjuntos de dados que hoje estão sendo tratados pelos recursos - sistemas de informação - existentes.
+
+   A **Lista de Termos que Necessitam de Sistematização** representa conjuntos de dados, levantados na oficina, que não estão sendo tratados nem ofertados pelor sistemas de informação atualmente.
+   
+   ---
 
    #### Definição dos padrões de dados e metadados
 
