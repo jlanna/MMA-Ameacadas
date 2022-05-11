@@ -1,16 +1,16 @@
 ## Titulo
 
-### Data:
+### **Data:**
 
-### Participantes:
+### **Participantes:**
 
 * 
 
-### Pauta
+### **Pauta:**
 
 1.
 
-### Memória
+### **Memória:**
 
 | Id| Tipo | Quem | {A, I, D, C} | Prazo |
 |---|---|---|---|---|
@@ -19,8 +19,10 @@
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-### Notas
-
 Tipo: (A) Ação, (I) Informe, (D) Decisão, (C) Comentário
 
 Prazo: (d) Dias, (w) Semanas, (M) Meses
+
+### **Notas:**
+
+
