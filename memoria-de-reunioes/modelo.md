@@ -1,6 +1,4 @@
-## Titulo
-
-### **Data:**
+## {data}
 
 ### **Participantes:**
 
