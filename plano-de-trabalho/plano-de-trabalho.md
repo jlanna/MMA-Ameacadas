@@ -64,20 +64,8 @@
    Outras atividades que demandam dados e informações sobre espécies ameaçadas, como por exermplo, a elaboração da [Estratégia e Plano de Ação Nacionais para a Biodiversidade – EPANB](https://antigo.mma.gov.br/biodiversidade/conven%C3%A7%C3%A3o-da-diversidade-biol%C3%B3gica/estrat%C3%A9gia-e-plano-de-a%C3%A7%C3%A3o-nacionais-para-a-biodiversidade-epanb.html), e dos Indicadores das Metas Nacionais de Biodiversidade.
 
    Neste contexto, **a oficina irá definir o foco do estudo de caso, e com base neste foco, as demandas por dados e informações**.
-
-   ---
-
-   ### 2.1. Compilação de termos da Oficina de Demandas do MMA/DESP
-   
-   #### Elaboração da **Lista de Termos Preliminar** e da **Lista de Termos que Necessitam de Sistematização**
-
-   Como resultado da [*Oficina de Demandas do MMA/DESP*](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#realiza%C3%A7%C3%A3o-da-oficina-de-demandas-do-mmadesp) e da sistematização a **Lista de Termos dos Recursos** uma **Lista de Termos Preliminar** será elaborada, contendo os termos demandados, organizados em "classes", representando conjuntos de dados que hoje estão sendo tratados pelos recursos - sistemas de informação - existentes.
-
-   A **Lista de Termos que Necessitam de Sistematização** representa conjuntos de dados, levantados na oficina, que não estão sendo tratados nem ofertados pelor sistemas de informação atualmente.
-   
-   ---
-  
- ## 3. Realização da Oficina de consolidação dos termos demandados e presentes nos recursos
+ 
+ ## 3. Realização da Oficina de Consolidação dos Termos Demandados e Presentes nos Recursos
 
    A oficina de consolidação de demandas das vinculadas ao MMA terá a participação de, além dos membros do MMA/DESP participantes da primeira oficina, membros do CNFlora/JBRJ e SALVE/ICMBio responsáveis pelo desenvolvimento dos sistemas e pela gestão de informação sobre biodiversidade. 
    
@@ -85,7 +73,7 @@
   
   ---
 
-   ### 3.1. Compilação de termos da Oficina de Demandas do MMA/DESP
+  ### 3.1. Compilação de termos da Oficina de Consolidação
    
    #### Elaboração da **Lista de Termos Preliminar** e da **Lista de Termos que Necessitam de Sistematização**
 
@@ -95,13 +83,13 @@
    
    ---
    
-   #### Definição dos padrões de dados e metadados
+ ## 4. Definição dos padrões de dados e metadados
 
    Padrões de dados e metadados relacionados a dados sobre biodiversidade e espécies ameaçadas seão levantados e suas classes e termos compiladas.
+   
+ ## 5. Harmonização das listas de termos com os padrões de dados existentes
 
-   #### Harmonização das listas de termos com os padrões de dados existentes
-
-   As listas preliminar e de termos que necessitam de sistematização serão comparadas com os padrões de dados e metadados existentes para que possam gerar uma **Lista de Termos Acordada**, representando a demanda por dados de espécies ameaçadas associada aos padrões de dados existentes. Esta lista harmonizada será usada como subsídio da Oficina para elaboração da **Lista de Termos Acordada**.
+   As listas preliminar e de termos que necessitam de sistematização serão comparadas com os padrões de dados e metadados existentes para que possam gerar uma **Lista de Termos Harmonizados e Consolidados** e uma **Lista de Classes e Termos que não estão nos Padrões Considerados**. A **Lista de Termos Harmonizados e Consolidados**, representando a demanda por dados de espécies ameaçadas associada aos padrões de dados existentes e a **Lista de Classes e Termos que não estão nos Padrões Considerados**, representando a demanda por criação de um vocabulário que inclua classes e termos essenciais às demandas do MMA/DESP. Estas listas harmonizadas serão usadas como subsídios da Oficina para elaboração da **Lista de Termos Acordada**.
 
 ## 6. Realização da Oficina para elaboração da **Lista de Termos Acordada**
 
@@ -113,6 +101,10 @@
 
 ## 8. Realização da Oficina de definição dos mecanismos de publicação
 
-## 9. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
+ ### 8.1. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
 
-## 10. Realização da Oficina de Encerramento
+## 9. Realização da Oficina de Fechamento
+
+ ### 9.1. Compilação do Plano de Ação para Gestão de Dados de Espécies Ameaçadas
+
+## 10. Reunião de apresentação dos produtos
