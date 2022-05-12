@@ -22,6 +22,6 @@ gantt
     Levantamento dos mecanismos de publicação :t11, after t10, 2w
     Oficina de definição dos mecanismos de publicação :milestone, 0d
     Compilação do Produto 2 (P5) :t12, after t11, 2w
-    Preparação da Reunião de apresentação dos produtos e fechamento :milestone, 10d
+    Preparação da Reunião de apresentação dos produtos e fechamento :t13, after t12, 10d
     Reunião de apresentação dos produtos e fechamento :milestone, 0d
 ```
