@@ -82,8 +82,8 @@
    A oficina de consolidação de demandas das vinculadas ao MMA terá a participação de, além dos membros do MMA/DESP participantes da primeira oficina, membros do CNFlora/JBRJ e SALVE/ICMBio responsáveis pelo desenvolvimento dos sistemas e pela gestão de informação sobre biodiversidade. 
    
    As demandas compiladas na primeira oficina geraram listas de termos que agora são encaminhadas para consolidação e consulta de ofertas "ocultas" nas bases de dados de cada sistema. Serão considerados ajustes nas ofertas dos sistemas de informação.
-   
-     ---
+  
+  ---
 
    ### 3.1. Compilação de termos da Oficina de Demandas do MMA/DESP
    
@@ -94,7 +94,7 @@
    A **Lista de Termos que Necessitam de Sistematização** representa conjuntos de dados, levantados na oficina, que não estão sendo tratados nem ofertados pelor sistemas de informação atualmente.
    
    ---
-
+   
    #### Definição dos padrões de dados e metadados
 
    Padrões de dados e metadados relacionados a dados sobre biodiversidade e espécies ameaçadas seão levantados e suas classes e termos compiladas.
