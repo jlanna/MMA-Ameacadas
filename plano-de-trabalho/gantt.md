@@ -1,8 +1,4 @@
 ```mermaid
-%%{init: 
-    {"gantt":{"barHeight": "30"}}
-  }%%
-
 gantt
     %%Configuração
     dateFormat DD/MM/YY
