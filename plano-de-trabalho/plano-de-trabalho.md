@@ -103,8 +103,4 @@
 
  ### 8.1. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
 
-## 9. Realização da Oficina de Fechamento
-
- ### 9.1. Compilação do Plano de Ação para Gestão de Dados de Espécies Ameaçadas
-
-## 10. Reunião de apresentação dos produtos
+## 9. Reunião de apresentação dos produtos e fechamento

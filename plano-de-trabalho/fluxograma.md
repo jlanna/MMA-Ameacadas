@@ -105,16 +105,7 @@ flowchart TB
         14>Proposta de Mecanismos de Publicação]
     end
     12 --> Produto2
-    Produto1 --> 18{{Oficina de Encerramento}}
-    Produto2 --> 18{{Oficina de Encerramento}}
+    Produto1 --> 18{{Reunião de apresentação dos produtos e fechamento}}
+    Produto2 --> 18
 ```
 
-#### Legenda
-
-```mermaid
-flowchart TB
-
-X{{Oficina}}
-Y>Documento ou Relatório]
-Z(Ação)
-```
