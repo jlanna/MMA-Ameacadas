@@ -71,7 +71,6 @@
    
    As demandas compiladas na primeira oficina geraram listas de termos que agora são encaminhadas para consolidação e consulta de ofertas "ocultas" nas bases de dados de cada sistema. Serão considerados ajustes nas ofertas dos sistemas de informação.
   
-  ---
 
   ### 3.1. Compilação de termos da Oficina de Consolidação
    
@@ -81,7 +80,6 @@
 
    A **Lista de Termos que Necessitam de Sistematização** representa conjuntos de dados, levantados na oficina, que não estão sendo tratados nem ofertados pelor sistemas de informação atualmente.
    
-   ---
    
  ## 4. Definição dos padrões de dados e metadados
 
@@ -104,3 +102,9 @@
  ### 8.1. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
 
 ## 9. Reunião de apresentação dos produtos e fechamento
+
+Esta reunião final pode ter dois momentos diferentes:
+* Manhã
+  * Grupo técnico para definição de encaminhamentos e próximos passos;
+* Tarde
+  * Apresentação dos produtos para todos os participantes do Projeto GEF Pró-espécies.

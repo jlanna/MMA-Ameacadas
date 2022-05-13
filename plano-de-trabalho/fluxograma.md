@@ -70,7 +70,6 @@ flowchart TB
         I([Outros padrões])
     end
     
-
     %% os produtos da oficina de consolidação (4) - a saber: a lista de termos preliminar (6) e a lista de termos que precisam ser sistematizados (5) alimentam a ação de harmonização (7).
     6 --> 7(Harmonização com classes e termos de padrões já existentes)
     5 --> 7 
@@ -81,7 +80,7 @@ flowchart TB
 
     %% esta lista de termos harmonizados e consolidados (17), assim como a lista de classes e termos que não estão nos padrões existentes e precisam ser definidos, alimenta a oficina para a elaboração da lista de termos acordados, que irá, em última instância, gerar o Produto1 - a proposta de padrão
 
-    17 --> 15{{Oficina para elaborar a Lista de Termos Acordada}}
+    17 --> 15{{Oficina para elaborar a Lista de Termos Acordados}}
     10 --> 15
     15  --> Produto1
 
