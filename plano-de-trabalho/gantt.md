@@ -1,4 +1,10 @@
 ```mermaid
+%%{init: 
+    {"gantt": 
+        {"barHeight": 50, "barGap":"8"}
+        "theme":"neutral"
+    }
+  }%%
 gantt
     %%Configuração
     dateFormat DD/MM/YY
@@ -27,5 +33,4 @@ gantt
     Compilação do Produto 2 - Proposta de mecanismos de publicação (P5) :t12, after t11, 2w
     Preparação da Reunião de apresentação dos produtos e fechamento :t13, after t12, 10d
     Reunião de apresentação dos produtos e fechamento :milestone, crit, m5, after t13, 0d
-    
-
+```
