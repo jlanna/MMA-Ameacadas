@@ -10,7 +10,7 @@
 
 ### **Memória:**
 
-| Id| Tipo | Quem | {A, I, D, C} | Prazo |
+| Id| Tipo | Quem | {Ação, Informe, Decisão, Comentário} | Prazo |
 |---|---|---|---|---|
 |  |  |  |  |  |
 |  |  |  |  |  |
