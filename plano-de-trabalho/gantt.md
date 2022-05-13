@@ -24,4 +24,6 @@ gantt
     Compilação do Produto 2 (P5) :t12, after t11, 2w
     Preparação da Reunião de apresentação dos produtos e fechamento :t13, after t12, 10d
     Reunião de apresentação dos produtos e fechamento :milestone, 0d
+    
+    click t2 href https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#2-realiza%C3%A7%C3%A3o-da-oficina-de-demandas-do-mmadesp
 ```
