@@ -1,8 +1,8 @@
-# Plano de Trabalho
+t# Plano de Trabalho
 
 [Fluxo de trabalho](fluxograma.md) - [Gantt](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/gantt.md)
 
-## 1. Definição dos Recursos
+## 1. Levantamento e Definição dos Recursos
 
    Os recursos serão definidos com base, inicialmente, em seu papel central e, posteriormente, com base nas demandas realizadas na Oficina de Demanda do MMA/DESP.
 
