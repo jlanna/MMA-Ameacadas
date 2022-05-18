@@ -1,6 +1,6 @@
 ## Recursos da Flora avaliados
 
-### Web Services
+### Web Services (API)
 
 * https://servicos.jbrj.gov.br/v2/flora/
 
