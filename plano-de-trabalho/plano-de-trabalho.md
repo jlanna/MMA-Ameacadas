@@ -45,11 +45,11 @@
 
    * ##### [IPT e Darwin Core](http://ipt.jbrj.gov.br/jbrj/resource?r=lista\_especies\_flora\_brasil)
          
-         Os dados presentes no sistema da Flora e Funga do Brasil são exportados via IPT com versões atualizadas automaticamente.
+        Os dados presentes no sistema da Flora e Funga do Brasil são exportados via IPT com versões atualizadas automaticamente.
 
    * ##### [_Web Service_](https://servicos.jbrj.gov.br/v2/flora/)
    
-         Os dados exportados via Web Sevice também estão no padrão Darwin Core e são consumidos diretamente dos bancos de dados, sem versionamento.
+        Os dados exportados via Web Sevice também estão no padrão Darwin Core e são consumidos diretamente dos bancos de dados, sem versionamento.
          
    
    ---
