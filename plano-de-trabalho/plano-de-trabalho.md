@@ -1,4 +1,4 @@
-t# Plano de Trabalho
+# Plano de Trabalho
 
 [Fluxo de trabalho](fluxograma.md) - [Gantt](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/gantt.md)
 
@@ -19,18 +19,23 @@ t# Plano de Trabalho
    * ##### [IPT e Darwin Core](http://ipt.jbrj.gov.br/jbrj/resource?r=redlist\_2013\_taxons)
 
         O CNCFlora publicou seus dados relativos ao Livro Vermelho (2013) no IPT da instituição. Entretanto, novas atualizações não estão previstas.
+        
+   * ##### [_Web Service_](http://cncflora.jbrj.gov.br/services/index.html)
+        
+        Os dados relativos ao Livro Vermelho (2013) também foram publicados via Web Service juntamente com os dados de ocorrência que deram subsídio às avaliações de cada espécie. 
 
    * ##### [Conjuntos de dados para IUCN](https://drive.google.com/file/d/1idSHoHEM51Qxu3CY10ke10lrJ7wnYU8o/view?usp=sharing)
 
         Os conjuntos de dados enviados para a IUCN são os dados mais recentes ofertados pelo CNCFlora.
 
-   * ##### [_Web Service_](http://cncflora.jbrj.gov.br/services/index.html)
 
    ---
 
    ### 1.2. Salve
 
    #### Mecanismos de Publicação:
+   
+   O Salve não possui mecanismos de publicação de dados abertos ao público. O acesso deve ser requerido diretamente à equipe técnica responsável.
 
    ---
 
@@ -39,8 +44,13 @@ t# Plano de Trabalho
    #### Mecanismos de Publicação:
 
    * ##### [IPT e Darwin Core](http://ipt.jbrj.gov.br/jbrj/resource?r=lista\_especies\_flora\_brasil)
+         
+         Os dados presentes no sistema da Flora e Funga do Brasil são exportados via IPT com versões atualizadas automaticamente.
 
    * ##### [_Web Service_](https://servicos.jbrj.gov.br/v2/flora/)
+   
+         Os dados exportados via Web Sevice também estão no padrão Darwin Core e são consumidos diretamente dos bancos de dados, sem versionamento.
+         
    
    ---
 
