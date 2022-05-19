@@ -88,7 +88,7 @@
    
    #### Elaboração da **Lista de Termos Preliminar** e da **Lista de Termos que Necessitam de Sistematização**
 
-   Como resultado da [*Oficina de Demandas do MMA/DESP*](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#realiza%C3%A7%C3%A3o-da-oficina-de-demandas-do-mmadesp) e da sistematização a **Lista de Termos dos Recursos** uma **Lista de Termos Preliminar** será elaborada, contendo os termos demandados, organizados em "classes", representando conjuntos de dados que hoje estão sendo tratados pelos recursos - sistemas de informação - existentes.
+   Como resultado da [*Oficina de Demandas do MMA/DESP*](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#realiza%C3%A7%C3%A3o-da-oficina-de-demandas-do-mmadesp) e da [Sistematização dos Termos Presentes nos Recursos](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#2-sistematiza%C3%A7%C3%A3o-dos-termos-presentes-nos-recursos), uma **Lista de Termos Preliminar** será elaborada. Esta lista conterá os termos demandados, organizados em "classes", representando conjuntos de dados que hoje estão sendo tratados pelos recursos - sistemas de informação - existentes.
 
    A **Lista de Termos que Necessitam de Sistematização** representa conjuntos de dados, levantados na oficina, que não estão sendo tratados nem ofertados pelor sistemas de informação atualmente.
    
@@ -103,15 +103,24 @@
 
 ## 7. Realização da Oficina para elaboração da **Lista de Termos Acordada**
 
-   Esta oficina irá avaliar e validar a lista de termos harmonizada com os padrões existentes para definição da **Proposta de Padrão de Dados para Espécies Ameaçadas**
+   Esta oficina irá avaliar e validar a lista de termos harmonizada com os padrões existentes.
+
+ ### 7.1. Elaboração da **Proposta de Padrão de Dados para Espécies Ameaçadas**
+ 
+   Considerando a validação da **Lista de Termos Acordada**, será elaborada um **Proposta de Padrão de Dados para Espécies Ameaçadas**, representando o **Produto 1** deste conjunto de oficinas.  
+   
 
 ## 8. Definição das ferramentas e protocolos para publicação de dados
 
-   Um conjunto de mecanismos de publicação de dados já encontra-se em produção nas diferentes instituições responsáveis pelos sistemas de informação que gereciam os recursos de informação sobre espécies ameaçadas.
+   De acordo com levantamento prévio presente no *Diagnóstico Nacional de Gestão de Dados de Biodiversidade*, um conjunto de mecanismos de publicação de dados já encontra-se em produção em diferentes instituições responsáveis pelos sistemas de informação que gereciam os recursos de informação sobre espécies ameaçadas. Este conjunto será revisado para atualização quanto a alterações e serão também apresentados eventuais novas ferramentas e protocolos para publicação de dados de biodiversidade adequadas ao contexto desta abordagem.
 
 ## 9. Realização da Oficina de definição dos mecanismos de publicação
 
+   Esta oficina irá decidir os mecanismos comuns de publicação de dados sobre espécies ameaçadas para todas as instituições vinculadas ao MMA participantes.
+
  ### 9.1. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
+ 
+   Considerando a decisão de um conjunto de ferramentas e protocolos para publicação de dados de biodiversidade, esta Proposta representará o **Produto 2** deste conjunto de oficinas.  
 
 ## 10. Reunião de apresentação dos produtos e fechamento
 
