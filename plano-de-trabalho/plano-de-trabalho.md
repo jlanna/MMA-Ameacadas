@@ -118,7 +118,7 @@
 
    Esta oficina irá decidir os mecanismos comuns de publicação de dados sobre espécies ameaçadas para todas as instituições vinculadas ao MMA participantes.
 
- ### 9.1. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
+ ### 9.1. Elaboração da **Proposta de Mecanismos para Publicação de Dados sobre Espécies Ameaçadas**
  
    Considerando a decisão de um conjunto de ferramentas e protocolos para publicação de dados de biodiversidade, esta Proposta representará o **Produto 2** deste conjunto de oficinas.  
 
@@ -133,6 +133,16 @@ Esta reunião final pode ter dois momentos diferentes:
 
 ## Cronograma
 
-|  | Mês 1 | Mes 2 |
-|--|:--:|--|
-| Tarefa1 | X |  |
+|  | Mês 1 | Mês 2 | Mês 3 | Mês 4 | Mês 5 |
+|--|:--:|:--:|:--:|:--:|:--:|
+| Tarefa1 | X |  |  |  |  |
+| Tarefa2 | X |  |  |  |  |
+| Tarefa3 |  | X |  |  |  |
+| Tarefa4 |  | X | X |  |  |
+| Tarefa5 |  |  | X |  |  |
+| Tarefa6 |  |  | X |  |  |
+| Tarefa7 |  |  | X | X |  |
+| Tarefa8 |  |  |  | X |  |
+| Tarefa9 |  |  |  | X |  |
+| Tarefa10 |  |  |  |  | X |
+
