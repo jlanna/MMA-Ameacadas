@@ -75,7 +75,7 @@
 
    Outras atividades que demandam dados e informações sobre espécies ameaçadas, como por exermplo, a elaboração da [Estratégia e Plano de Ação Nacionais para a Biodiversidade – EPANB](https://antigo.mma.gov.br/biodiversidade/conven%C3%A7%C3%A3o-da-diversidade-biol%C3%B3gica/estrat%C3%A9gia-e-plano-de-a%C3%A7%C3%A3o-nacionais-para-a-biodiversidade-epanb.html), e dos Indicadores das Metas Nacionais de Biodiversidade.
 
-   Neste contexto, **a oficina irá definir o foco do estudo de caso, e com base neste foco, as demandas por dados e informações**. Estas demandas, por sua vez, possibilitarão a construção de uma lista de termos e classes demandados pelo MMA/DESP. Esta lista, juntamente com a lista de termos e classes geradas a partir da elaborada a partir da 
+   Neste contexto, **a oficina irá definir o foco do estudo de caso, e com base neste foco, as demandas por dados e informações**. Estas demandas, por sua vez, possibilitarão a construção de uma lista de termos e classes demandados pelo MMA/DESP. Esta lista, juntamente com a lista de termos e classes geradas a partir da [Sistematização dos Termos Presentes nos Recursos](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#2-sistematiza%C3%A7%C3%A3o-dos-termos-presentes-nos-recursos), servirá de subsídio para a realização da [Oficina de Consolidação dos Termos Demandados e Presentes nos Recursos](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#4-realiza%C3%A7%C3%A3o-da-oficina-de-consolida%C3%A7%C3%A3o-dos-termos-demandados-e-presentes-nos-recursos)
  
  ## 4. Realização da Oficina de Consolidação dos Termos Demandados e Presentes nos Recursos
 
@@ -84,7 +84,7 @@
    As demandas compiladas na primeira oficina geraram listas de termos que agora são encaminhadas para consolidação e consulta de ofertas "ocultas" nas bases de dados de cada sistema. Serão considerados ajustes nas ofertas dos sistemas de informação.
   
 
-  ### 3.1. Compilação de termos da Oficina de Consolidação
+  ### 4.1. Compilação de termos da Oficina de Consolidação
    
    #### Elaboração da **Lista de Termos Preliminar** e da **Lista de Termos que Necessitam de Sistematização**
 
@@ -93,27 +93,27 @@
    A **Lista de Termos que Necessitam de Sistematização** representa conjuntos de dados, levantados na oficina, que não estão sendo tratados nem ofertados pelor sistemas de informação atualmente.
    
    
- ## 4. Definição dos padrões de dados e metadados
+ ## 5. Definição dos padrões de dados e metadados
 
    Padrões de dados e metadados relacionados a dados sobre biodiversidade e espécies ameaçadas seão levantados e suas classes e termos compiladas.
    
- ## 5. Harmonização das listas de termos com os padrões de dados existentes
+ ## 6. Harmonização das listas de termos com os padrões de dados existentes
 
    As listas preliminar e de termos que necessitam de sistematização serão comparadas com os padrões de dados e metadados existentes para que possam gerar uma **Lista de Termos Harmonizados e Consolidados** e uma **Lista de Classes e Termos que não estão nos Padrões Considerados**. A **Lista de Termos Harmonizados e Consolidados**, representando a demanda por dados de espécies ameaçadas associada aos padrões de dados existentes e a **Lista de Classes e Termos que não estão nos Padrões Considerados**, representando a demanda por criação de um vocabulário que inclua classes e termos essenciais às demandas do MMA/DESP. Estas listas harmonizadas serão usadas como subsídios da Oficina para elaboração da **Lista de Termos Acordada**.
 
-## 6. Realização da Oficina para elaboração da **Lista de Termos Acordada**
+## 7. Realização da Oficina para elaboração da **Lista de Termos Acordada**
 
    Esta oficina irá avaliar e validar a lista de termos harmonizada com os padrões existentes para definição da **Proposta de Padrão de Dados para Espécies Ameaçadas**
 
-## 7. Definição das ferramentas e protocolos para publicação de dados
+## 8. Definição das ferramentas e protocolos para publicação de dados
 
    Um conjunto de mecanismos de publicação de dados já encontra-se em produção nas diferentes instituições responsáveis pelos sistemas de informação que gereciam os recursos de informação sobre espécies ameaçadas.
 
-## 8. Realização da Oficina de definição dos mecanismos de publicação
+## 9. Realização da Oficina de definição dos mecanismos de publicação
 
- ### 8.1. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
+ ### 9.1. Elaboração da **Proposta de Mecanismos para Publicação Dados sobre Espécies Ameaçadas**
 
-## 9. Reunião de apresentação dos produtos e fechamento
+## 10. Reunião de apresentação dos produtos e fechamento
 
 Esta reunião final pode ter dois momentos diferentes:
 * Manhã
