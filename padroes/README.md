@@ -2,7 +2,8 @@
 
 ## Darwin Core
 
-* https://dwc.tdwg.org/terms/
+* https://dwc.tdwg.org/list/#3-term-indices
+
 
 ## IUCN SIS Connect
 
