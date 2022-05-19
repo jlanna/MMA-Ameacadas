@@ -59,13 +59,15 @@
    #### Mecanismos de Publicação:
 
    * ##### [_Web Service_](https://drive.google.com/file/d/1Vy2\_-xTOF3JC992dlivp9oQYTCKLzVXe/view?usp=sharing)
+   
+        Os dados exportados via Web Service do Catálogo da Fauna não estão mapeados em Darwin Core.
 
-   ---
+## 2. Sistematização dos Termos Presentes nos Recursos
 
-   Os termos e classes presentes nestes recursos serão sistematizados, gerando uma **Lista de Termos dos Recursos**.
+   Os termos e classes presentes nestes recursos serão sistematizados, gerando uma [Lista de Termos dos Recursos](https://github.com/edalcin/MMA-Ameacadas/tree/main/recursos).
 
 
-## 2. Realização da Oficina de Demandas do MMA/DESP
+## 3. Realização da Oficina de Demandas do MMA/DESP
 
    A oficina de demandas do MMA/DESP será onde o "estudo de caso de interoperabilidade" será definido.
 
@@ -73,9 +75,9 @@
 
    Outras atividades que demandam dados e informações sobre espécies ameaçadas, como por exermplo, a elaboração da [Estratégia e Plano de Ação Nacionais para a Biodiversidade – EPANB](https://antigo.mma.gov.br/biodiversidade/conven%C3%A7%C3%A3o-da-diversidade-biol%C3%B3gica/estrat%C3%A9gia-e-plano-de-a%C3%A7%C3%A3o-nacionais-para-a-biodiversidade-epanb.html), e dos Indicadores das Metas Nacionais de Biodiversidade.
 
-   Neste contexto, **a oficina irá definir o foco do estudo de caso, e com base neste foco, as demandas por dados e informações**.
+   Neste contexto, **a oficina irá definir o foco do estudo de caso, e com base neste foco, as demandas por dados e informações**. Estas demandas, por sua vez, possibilitarão a construção de uma lista de termos e classes demandados pelo MMA/DESP. Esta lista, juntamente com a lista de termos e classes geradas a partir da elaborada a partir da 
  
- ## 3. Realização da Oficina de Consolidação dos Termos Demandados e Presentes nos Recursos
+ ## 4. Realização da Oficina de Consolidação dos Termos Demandados e Presentes nos Recursos
 
    A oficina de consolidação de demandas das vinculadas ao MMA terá a participação de, além dos membros do MMA/DESP participantes da primeira oficina, membros do CNFlora/JBRJ e SALVE/ICMBio responsáveis pelo desenvolvimento dos sistemas e pela gestão de informação sobre biodiversidade. 
    
