@@ -1,6 +1,14 @@
 # Plano de Trabalho
 
-[Fluxo de trabalho](fluxograma.md) - [Gantt](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/gantt.md)
+[Fluxo de trabalho](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/fluxograma.svg)
+
+## Apresentação
+
+   No âmbito do Projeto “GEF Pró-Espécies: Estratégia Nacional para a Conservação de Espécies Ameaçadas”, foi contratada consultoria especializada para      desenvolver proposta de arquitetura de dados e mecanismos de publicação de informação sobre biodiversidade brasileira. 
+
+   Este documento consiste do Plano de Trabalho a ser considerado ao longo da execução da consultoria. Nele constam informações como atividades planejadas, produtos e cronograma completo das atividades. 
+   
+ 
 
 ## 1. Levantamento e Definição dos Recursos
 
@@ -130,19 +138,23 @@ Esta reunião final pode ter dois momentos diferentes:
 * Tarde
   * Apresentação dos produtos para todos os participantes do Projeto GEF Pró-espécies.
 
+## Fluxograma
+
+![fluxograma](https://user-images.githubusercontent.com/13351907/169844403-0cdabfda-08ec-438c-9b19-b05effd86b8e.png)
+
 
 ## Cronograma
 
 |  | Mês 1 | Mês 2 | Mês 3 | Mês 4 | Mês 5 |
 |--|:--:|:--:|:--:|:--:|:--:|
-| Tarefa1 | X |  |  |  |  |
-| Tarefa2 | X |  |  |  |  |
-| Tarefa3 |  | X |  |  |  |
-| Tarefa4 |  | X | X |  |  |
-| Tarefa5 |  |  | X |  |  |
-| Tarefa6 |  |  | X |  |  |
-| Tarefa7 |  |  | X | X |  |
-| Tarefa8 |  |  |  | X |  |
-| Tarefa9 |  |  |  | X |  |
-| Tarefa10 |  |  |  |  | X |
+| [1. Levantamento e Definição dos Recursos](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#1-levantamento-e-defini%C3%A7%C3%A3o-dos-recursos) | X |  |  |  |  |
+| [2. Sistematização dos Termos Presentes nos Recursos](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#2-sistematiza%C3%A7%C3%A3o-dos-termos-presentes-nos-recursos) | X |  |  |  |  |
+| [3. Oficina de Demandas do MMA/DESP](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#3-realiza%C3%A7%C3%A3o-da-oficina-de-demandas-do-mmadesp) |  | X |  |  |  |
+| [4. Oficina de Consolidação dos Termos Demandados e Presentes nos Recursos](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#4-realiza%C3%A7%C3%A3o-da-oficina-de-consolida%C3%A7%C3%A3o-dos-termos-demandados-e-presentes-nos-recursos) |  | X | X |  |  |
+| [5. Definição dos padrões de dados e metadados](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#5-defini%C3%A7%C3%A3o-dos-padr%C3%B5es-de-dados-e-metadados) |  |  | X |  |  |
+| [6. Harmonização das listas de termos com os padrões de dados existentes](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#6-harmoniza%C3%A7%C3%A3o-das-listas-de-termos-com-os-padr%C3%B5es-de-dados-existentes) |  |  | X |  |  |
+| [7. Oficina para elaboração da Lista de Termos Acordada](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#7-realiza%C3%A7%C3%A3o-da-oficina-para-elabora%C3%A7%C3%A3o-da-lista-de-termos-acordada) |  |  | X | X |  |
+| [8. Definição das ferramentas e protocolos para publicação de dados](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#8-defini%C3%A7%C3%A3o-das-ferramentas-e-protocolos-para-publica%C3%A7%C3%A3o-de-dados) |  |  |  | X |  |
+| [9. Realização da Oficina de definição dos mecanismos de publicação](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#9-realiza%C3%A7%C3%A3o-da-oficina-de-defini%C3%A7%C3%A3o-dos-mecanismos-de-publica%C3%A7%C3%A3o) |  |  |  | X |  |
+| [10. Apresentação dos produtos e fechamento](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#10-reuni%C3%A3o-de-apresenta%C3%A7%C3%A3o-dos-produtos-e-fechamento) |  |  |  |  | X |
 
