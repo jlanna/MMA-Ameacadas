@@ -145,7 +145,7 @@ Esta reunião final pode ter dois momentos diferentes:
 
 ## Cronograma
 
-|  | Mês 1 | Mês 2 | Mês 3 | Mês 4 | Mês 5 |
+| Atividade | Mês 1 | Mês 2 | Mês 3 | Mês 4 | Mês 5 |
 |--|:--:|:--:|:--:|:--:|:--:|
 | [1. Levantamento e Definição dos Recursos](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#1-levantamento-e-defini%C3%A7%C3%A3o-dos-recursos) | X |  |  |  |  |
 | [2. Sistematização dos Termos Presentes nos Recursos](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#2-sistematiza%C3%A7%C3%A3o-dos-termos-presentes-nos-recursos) | X |  |  |  |  |
@@ -157,4 +157,16 @@ Esta reunião final pode ter dois momentos diferentes:
 | [8. Definição das ferramentas e protocolos para publicação de dados](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#8-defini%C3%A7%C3%A3o-das-ferramentas-e-protocolos-para-publica%C3%A7%C3%A3o-de-dados) |  |  |  | X |  |
 | [9. Realização da Oficina de definição dos mecanismos de publicação](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#9-realiza%C3%A7%C3%A3o-da-oficina-de-defini%C3%A7%C3%A3o-dos-mecanismos-de-publica%C3%A7%C3%A3o) |  |  |  | X |  |
 | [10. Apresentação dos produtos e fechamento](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#10-reuni%C3%A3o-de-apresenta%C3%A7%C3%A3o-dos-produtos-e-fechamento) |  |  |  |  | X |
+
+## Produtos e entregáveis 
+
+| Item | Produto / Entregável | Data entrega | Data aproivação |
+|:--:|--|--|--|
+| 1 | Plano trabalho | 2022-05-25 | 2022-06-01 | 
+| 2 | Termos da Oficina de Demandas compilados | 2022-06-27 | 2022-07-08 |
+| 3 | Harmonização das listas da segunda oficina com padrões de dados | 2022-07-26 | 2022-08-09 |
+| 4 | Proposta de Padrão de Dados para espécie ameaçadas do MMA | 2022-08-12 | 2022-08-26 |
+| 5 | Proposta de mecanismos de publicação de dados de espécies ameaçadas pelo MMA | 2022-09-02 | 2022-09-16 |
+
+
 
