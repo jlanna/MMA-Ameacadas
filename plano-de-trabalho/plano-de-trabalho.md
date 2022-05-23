@@ -1,6 +1,5 @@
 # Plano de Trabalho
 
-[Fluxo de trabalho](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/fluxograma.svg)
 
 ## Apresentação
 
@@ -8,7 +7,8 @@
 
    Este documento consiste do Plano de Trabalho a ser considerado ao longo da execução da consultoria. Nele constam informações como atividades planejadas, produtos e cronograma completo das atividades. 
    
- 
+   
+## Atividades Planejadas 
 
 ## 1. Levantamento e Definição dos Recursos
 
@@ -160,11 +160,11 @@ Esta reunião final pode ter dois momentos diferentes:
 
 ## Produtos e entregáveis 
 
-| Item | Produto / Entregável | Data entrega | Data aproivação |
+| Item | Produto / Entregável | Data entrega | Data aprovação |
 |:--:|--|--|--|
 | 1 | Plano trabalho | 2022-05-25 | 2022-06-01 | 
 | 2 | Termos da Oficina de Demandas compilados | 2022-06-27 | 2022-07-08 |
-| 3 | Harmonização das listas da segunda oficina com padrões de dados | 2022-07-26 | 2022-08-09 |
+| 3 | Harmonização das listas da Oficina de Consolidação com padrões de dados | 2022-07-26 | 2022-08-09 |
 | 4 | Proposta de Padrão de Dados para espécie ameaçadas do MMA | 2022-08-12 | 2022-08-26 |
 | 5 | Proposta de mecanismos de publicação de dados de espécies ameaçadas pelo MMA | 2022-09-02 | 2022-09-16 |
 
