@@ -9,6 +9,8 @@
 
    Este documento consiste do Plano de Trabalho a ser considerado ao longo da execução da consultoria. Nele constam informações como atividades planejadas, produtos e cronograma completo das atividades. 
    
+   A equipe executora deste plano de trabalho envolve dois consultores e empresa de moderação especializada. Os consultores são o João Lanna, contratado pela WWF-Brasil para execução deste plano de trabalho, e do Eduardo Dalcin, funcionário do Jardim Botânico do Rio de Janeiro (JBRJ/MMA) convidado para participação neste trabalho por meio do ofício Nº 6128/2021/MMA e DESPACHO Nº 3771/2022/GABINETE/JBRJ. A facilitação, moderação e documentação das oficinas e reuniões será realizada pela empresa Vallie, contratada pela WWF-Brasil.
+   
    
 ## Atividades Planejadas 
 
@@ -79,7 +81,7 @@
 
 ## 3. Realização da Oficina de Demandas do MMA/DESP
 
-   A oficina de demandas do MMA/DESP será onde o "estudo de caso de interoperabilidade" será definido.
+   A oficina de demandas do MMA/DESP será aberta para todos os membros do MMA/DESP, onde o "estudo de caso de interoperabilidade" será definido.
 
    As demandas por dados e informações são motivadas, na maioria das vezes, como por exemplo, pela elaboração de [relatórios periódicos contendo informações acerca da implementação da Convenção sobre Diversidade Biológica (CDB)](https://antigo.mma.gov.br/biodiversidade/conven%C3%A7%C3%A3o-da-diversidade-biol%C3%B3gica/relatorios-brasileiros.html), que é um compromisso assumido pelo Brasil como membro da Convenção previsto no Artigo 26 da CDB (ratificada e promulgada pelo Decreto Federal nº 2.519/1998).
 
@@ -117,7 +119,7 @@
 
  ### 7.1. Elaboração da **Proposta de Padrão de Dados para Espécies Ameaçadas**
  
-   Considerando a validação da **Lista de Termos Acordada**, será elaborada um **Proposta de Padrão de Dados para Espécies Ameaçadas**, representando o **Produto 1** deste conjunto de oficinas.  
+   Considerando a validação da **Lista de Termos Acordada**, será elaborada um **Proposta de Padrão de Dados para Espécies Ameaçadas**, representando o **Produto 4** deste conjunto de oficinas.  
    
 
 ## 8. Definição das ferramentas e protocolos para publicação de dados
@@ -130,7 +132,7 @@
 
  ### 9.1. Elaboração da **Proposta de Mecanismos para Publicação de Dados sobre Espécies Ameaçadas**
  
-   Considerando a decisão de um conjunto de ferramentas e protocolos para publicação de dados de biodiversidade, esta Proposta representará o **Produto 2** deste conjunto de oficinas.  
+   Considerando a decisão de um conjunto de ferramentas e protocolos para publicação de dados de biodiversidade, esta Proposta representará o **Produto 5** deste conjunto de oficinas.  
 
 ## 10. Reunião de apresentação dos produtos e fechamento
 
@@ -162,7 +164,7 @@ Esta reunião final pode ter dois momentos diferentes:
 
 ## Produtos e entregáveis 
 
-| Item | Produto / Entregável | Data entrega | Data aprovação |
+| Item | Produto | Data entrega | Data aprovação |
 |:--:|--|--|--|
 | 1 | Plano de trabalho | 2022-05-25 | 2022-06-01 | 
 | 2 | Termos da Oficina de Demandas compilados | 2022-07-04 | 2022-07-15 |
