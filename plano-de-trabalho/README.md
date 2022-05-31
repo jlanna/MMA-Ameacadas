@@ -9,7 +9,7 @@
 
    Este documento consiste do Plano de Trabalho a ser considerado ao longo da execução da consultoria. Nele constam informações como atividades planejadas, produtos e cronograma completo das atividades. 
    
-   A equipe executora deste plano de trabalho envolve dois consultores e empresa de moderação especializada. Os consultores são **João Lanna**, contratado pela WWF-Brasil para execução deste plano de trabalho; e **Eduardo Dalcin**, servidor do Instituto de Pesquisas Jardim Botânico do Rio de Janeiro (JBRJ/MMA), convidado para participação neste trabalho por meio do ofício Nº 6128/2021/MMA e DESPACHO Nº 3771/2022/GABINETE/JBRJ. A facilitação, moderação e documentação das oficinas e reuniões será realizada pela empresa Vallie, contratada pela WWF-Brasil.
+   A equipe executora deste plano de trabalho envolve dois consultores e empresa de moderação especializada. Os consultores são **João Lanna**, contratado pela WWF-Brasil para execução deste plano de trabalho; e **Eduardo Dalcin**, servidor do Instituto de Pesquisas Jardim Botânico do Rio de Janeiro (JBRJ/MMA), convidado para participação neste trabalho por meio do [Ofício Nº 6128/2021/MMA](https://cloud.jbrj.gov.br/s/gsbGYXY4Fwj7aD7) e [DESPACHO Nº 3771/2022/GABINETE/JBRJ](https://cloud.jbrj.gov.br/s/bj7tGDXNSJKxPEb). A facilitação, moderação e documentação das oficinas e reuniões será realizada pela empresa [Vallie](https://vallie.com.br/), contratada pela [WWF-Brasil](https://www.wwf.org.br).
    
    
 ## Atividades Planejadas 
