@@ -134,7 +134,11 @@
  
    Considerando a decisão de um conjunto de ferramentas e protocolos para publicação de dados de biodiversidade, esta Proposta representará o **Produto 5** deste conjunto de oficinas.  
 
-## 10. Reunião de apresentação dos produtos e fechamento
+## 10. Elaboração do Guia de Boas Práticas
+
+Em parceria com a empresa Vallie será desenvolvido um Guia de Boas Práticas para desenvolvimento de um trabalho cooperativo de desenvolvimento de um padrão de dados e de definição de mecanismos de publicação de dados de biodiversidade.
+
+## 11. Reunião de apresentação dos produtos e fechamento
 
 Esta reunião final pode ter dois momentos diferentes:
 * Manhã
@@ -161,6 +165,7 @@ Esta reunião final pode ter dois momentos diferentes:
 | [8. Definição das ferramentas e protocolos para publicação de dados](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#8-defini%C3%A7%C3%A3o-das-ferramentas-e-protocolos-para-publica%C3%A7%C3%A3o-de-dados) |  |  |  | X |  |
 | [9. Realização da Oficina de definição dos mecanismos de publicação](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#9-realiza%C3%A7%C3%A3o-da-oficina-de-defini%C3%A7%C3%A3o-dos-mecanismos-de-publica%C3%A7%C3%A3o) |  |  |  | X |  |
 | [10. Apresentação dos produtos e fechamento](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#10-reuni%C3%A3o-de-apresenta%C3%A7%C3%A3o-dos-produtos-e-fechamento) |  |  |  |  | X |
+| [11. Apresentação dos produtos e fechamento](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#11-reuni%C3%A3o-de-apresenta%C3%A7%C3%A3o-dos-produtos-e-fechamento) |  |  |  |  | X |
 
 ## Produtos e entregáveis 
 
