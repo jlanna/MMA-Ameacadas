@@ -167,10 +167,10 @@ Esta reunião final pode ter dois momentos diferentes:
 | Item | Produto | Data entrega | Data aprovação |
 |:--:|--|--|--|
 | 1 | Plano de trabalho | 2022-05-25 | 2022-06-01 | 
-| 2 | Termos da Oficina de Demandas compilados | 2022-07-04 | 2022-07-15 |
-| 3 | Harmonização das listas da Oficina de Consolidação com padrões de dados | 2022-08-04 | 2022-08-18 |
-| 4 | Proposta de Padrão de Dados para espécie ameaçadas do MMA | 2022-08-21 | 2022-09-02 |
-| 5 | Proposta de mecanismos de publicação de dados de espécies ameaçadas pelo MMA | 2022-09-09 | 2022-09-23 |
+| 2 | Termos da Oficina de Demandas compilados | 2022-06-30 | 2022-07-11 |
+| 3 | Harmonização das listas da Oficina de Consolidação com padrões de dados | 2022-08-12 | 2022-08-22 |
+| 4 | Proposta de Padrão de Dados para espécies ameaçadas do MMA | 2022-09-01 | 2022-09-12 |
+| 5 | Proposta de mecanismos de publicação de dados de espécies ameaçadas pelo MMA | 2022-09-15 | 2022-09-26 |
 
 
 
