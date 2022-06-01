@@ -165,7 +165,7 @@ Esta reunião final pode ter dois momentos diferentes:
 | [8. Definição das ferramentas e protocolos para publicação de dados](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#8-defini%C3%A7%C3%A3o-das-ferramentas-e-protocolos-para-publica%C3%A7%C3%A3o-de-dados) |  |  |  | X |  |
 | [9. Realização da Oficina de definição dos mecanismos de publicação](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#9-realiza%C3%A7%C3%A3o-da-oficina-de-defini%C3%A7%C3%A3o-dos-mecanismos-de-publica%C3%A7%C3%A3o) |  |  |  | X |  |
 | [10. Guia de Boas Práticas](https://github.com/edalcin/MMA-Ameacadas/tree/main/plano-de-trabalho#10-elabora%C3%A7%C3%A3o-do-guia-de-boas-pr%C3%A1ticas) |  |  |  |  | X |
-| [11. Apresentação dos produtos e fechamento](https://github.com/edalcin/MMA-Ameacadas/blob/main/plano-de-trabalho/plano-de-trabalho.md#11-reuni%C3%A3o-de-apresenta%C3%A7%C3%A3o-dos-produtos-e-fechamento) |  |  |  |  | X |
+| [11. Apresentação dos produtos e fechamento](https://github.com/edalcin/MMA-Ameacadas/tree/main/plano-de-trabalho#11-reuni%C3%A3o-de-apresenta%C3%A7%C3%A3o-dos-produtos-e-fechamento) |  |  |  |  | X |
 
 ## Produtos e entregáveis 
 
