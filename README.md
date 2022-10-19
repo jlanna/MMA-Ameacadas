@@ -1,5 +1,3 @@
-<center><img src="https://antigo.mma.gov.br/images/arquivos/biodiversidade/projetos/logo.png" width="400"></center>
-
 # Proposta de Padrão de Dados e Metadados para Espécies Ameaçadas - MMA
 
 
