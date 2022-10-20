@@ -13,7 +13,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="http://rs.tdwg.org/dwc/terms/family">http://rs.tdwg.org/dwc/terms/family</a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="http://rs.tdwg.org/dwc/terms/family" target="_blank">http://rs.tdwg.org/dwc/terms/family</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>The most recent date-time on which the resource was changed.</td></tr>
         <tr><td class="theme-label">Comentários</td><td>Recommended best practice is to use a date that conforms to ISO 8601-1:2019.</td></tr>
         <tr><td class="theme-label">Exemplos</td><td><code>Asteraceae</td></tr>
