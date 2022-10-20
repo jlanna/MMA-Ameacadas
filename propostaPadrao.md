@@ -5,7 +5,7 @@
 
 ## Taxon
 
-| [Familia](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#familia) | [Genero](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#genero) | [Nome Científico](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#mma) |
+| [Familia](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#familia) | [Genero](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#genero) | [Nome Científico](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#nome-cient%C3%ADfico) |
 |---|---|---|
 
 
