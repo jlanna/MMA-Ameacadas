@@ -1,6 +1,6 @@
 # Proposta de Padrão
 
-Bla bla bla
+[Em construção]
 
 ---
 
