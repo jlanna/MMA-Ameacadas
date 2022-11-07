@@ -6,15 +6,14 @@
 
 __Classes__
 
-| [Taxon](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#taxon) | [Distribution](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#distribuição) | [MMA](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#mma) |
+| [taxon](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#taxon) | [vernacularName](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#vernacularName) | [distribution](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#distribuição) | [MMA](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#mma) |
 |---|---|---|
 
 ---
 
-## Taxon
+## taxon
 
-| [taxonID](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#taxonID)| [reino](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#reino) | [grupo](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#grupo) | [Nome Científico](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#nome-cient%C3%ADfico) |
-|---|---|---|
+| [taxonID](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#taxonID) | [reino](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#reino) | [grupo](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#grupo) | [familia](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#familia) | [genero](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#genero) | [epitetoEspecifico](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#epitetoEspecifico) | [epitetoInfraespecifico](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#epitetoInfraespecifico) |
 
 ---
 
@@ -102,6 +101,14 @@ __Classes__
     </tbody>
 </table>
 
+---
+
+## vernacularName
+
+| [nomeVernacular](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#nomeVernacular) |
+
+---
+
 ### nomeVernacular
 
 <table class="table table-sm table-bordered">
@@ -114,6 +121,14 @@ __Classes__
     </tbody>
 </table>
 
+---
+
+## Distribuição
+
+| [bioma](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#bioma) | [endemismo](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#endemismo) | [unidadesFederativas](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#unidadesFederativas) |
+
+---
+
 ### bioma
 
 <table class="table table-sm table-bordered">
@@ -125,6 +140,94 @@ __Classes__
         <tr><td class="theme-label">Exemplos</td><td><code>Pantanal</td></tr>
     </tbody>
 </table>
+
+### endemismo
+
+<table class="table table-sm table-bordered">
+    <tbody>
+        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">Definição</td><td>Endemismo para Brasil.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td>Os termos base listados possuem domínios específicos que devem ser considerados para eventual mapeamento. No caso do termo dwc, recomenda-se o uso de um json detalhando nome de campo e conteúdo.</td></tr>
+        <tr><td class="theme-label">Domínio</td><td></td></tr>
+        <tr><td class="theme-label">Exemplos</td><td><code>Agropecuária; Extracao Direta:Caça/Pesca; Queimadas</td></tr>
+    </tbody>
+</table>
+
+### unidadesFederativas
+
+<table class="table table-sm table-bordered">
+    <tbody>
+        <tr><td class="theme-label">identificador</td><td><a href="https://dwc.tdwg.org/list/#dwc_locationID" target="_blank">https://dwc.tdwg.org/list/#dwc_locationID</a></td></tr>
+        <tr><td class="theme-label">Definição</td><td>Unidades Federativas onde o táxon ocorre.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td></td></tr>
+        <tr><td class="theme-label">Domínio</td><td><code>AC</code>, <code>AL</code>, <code>AP</code>, <code>AM</code>, <code>BA</code>, <code>CE</code>, <code>ES</code>, <code>GO</code>, <code>MA</code>, <code>MT</code>, <code>MS</code>, <code>MG</code>, <code>PA</code>, <code>PB</code>, <code>PR</code>, <code>PE</code>, <code>PI</code>, <code>RJ</code>, <code>RN</code>, <code>RS</code>, <code>RO</code>, <code>RR</code>, <code>SC</code>, <code>SP</code>, <code>SE</code>, <code>TO</code>, <code>DF</td></tr>
+        <tr><td class="theme-label">Exemplos</td><td><code>MG, RJ</td></tr>
+    </tbody>
+</table>
+
+---
+
+## IMAGEM
+
+| [bioma](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#bioma) | [endemismo](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#endemismo) | [unidadesFederativas](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#unidadesFederativas) |
+
+---
+
+### tipo
+
+<table class="table table-sm table-bordered">
+    <tbody>
+        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">Definição</td><td>A natureza ou gênero do recurso.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td>Recomenda-se o uso dos três campos em dwc Para definição do tipo de registro (no caso imagens), licença de uso e instituição fonte da imagem.</td></tr>
+        <tr><td class="theme-label">Domínio</td><td></code>StillImage</code>, <code>MovingImage</code>, <code>Sound</code>, <code>PhysicalObject</code>, <code>Event</code>, <code>Text</td></tr>
+        <tr><td class="theme-label">Exemplos</td><td></td></tr>
+    </tbody>
+</table>
+
+### licenca
+
+<table class="table table-sm table-bordered">
+    <tbody>
+        <tr><td class="theme-label">identificador</td><td><a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#license" target="_blank">https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#license</a></td></tr>
+        <tr><td class="theme-label">Definição</td><td>Um documento legal dando permissão oficial de uso do recurso.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td>Recomenda-se o uso dos três campos em dwc Para definição do tipo de registro (no caso imagens), licença de uso e instituição fonte da imagem.</td></tr>
+        <tr><td class="theme-label">Domínio</td><td></td></tr>
+        <tr><td class="theme-label">Exemplos</td><td></td></tr>
+    </tbody>
+</table>
+
+### codigoInstituicaoProprietaria
+
+<table class="table table-sm table-bordered">
+    <tbody>
+        <tr><td class="theme-label">identificador</td><td><a href="http://rs.tdwg.org/dwc/terms/ownerInstitutionCode" target="_blank">http://rs.tdwg.org/dwc/terms/ownerInstitutionCode</a></td></tr>
+        <tr><td class="theme-label">Definição</td><td>O nome (ou acrônimo) em uso pela instituição possuidora de direitos sobre o objeto ou informação referida no registro.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td>Recomenda-se o uso dos três campos em dwc Para definição do tipo de registro (no caso imagens), licença de uso e instituição fonte da imagem.</td></tr>
+        <tr><td class="theme-label">Domínio</td><td></td></tr>
+        <tr><td class="theme-label">Exemplos</td><td></td></tr>
+    </tbody>
+</table>
+
+### creditos
+
+<table class="table table-sm table-bordered">
+    <tbody>
+        <tr><td class="theme-label">identificador</td><td><a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#rightsHolder" target="_blank">https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#rightsHolder</a></td></tr>
+        <tr><td class="theme-label">Definição</td><td>Uma pessoa ou organização possuidora ou detentora de direitos sobre o recurso.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td></td></tr>
+        <tr><td class="theme-label">Domínio</td><td></td></tr>
+        <tr><td class="theme-label">Exemplos</td><td></td></tr>
+    </tbody>
+</table>
+
+---
+
+## Avaliação
+
+| [categoria](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#categoria ) | [criterio](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#criterio) | [ameacas](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#ameacas) | [presenca em areas protegidas](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#presenca-em-areas-protegidas) | [plano de acao nacional para conservacao (pan)](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#plano-de-acao-nacional-para-conservacao-(pan)) | [ordenamento pesqueiro](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#ordenamento-pesqueiro) | [nivel de protecao na estrategia nacional](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#nivel-de-protecao-na-estrategia-nacional) | [medida_area distribuicao UC+TI+AM](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_area-distribuicao-UC+TI+AM) | [peso_area distribuicao UC+TI+AM](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_area-distribuicao-UC+TI+AM) | [medida_caverna](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_caverna) | [peso_caverna](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_caverna) | [medida_PAN](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_PAN) | [peso_PAN](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_PAN) | [medida_ordenamento pesqueiro](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_ordenamento-pesqueiro) | [peso_ordenamento pesqueiro](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_ordenamento-pesqueiro) | [medida_portaria 443](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_portaria-443) | [peso_portaria 443](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_portaria-443)| [medida_portaria 445](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_portaria-445) | [peso_portaria 445](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_portaria-445) | [medida_anexo CMS](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_anexo-CMS) | [peso_anexo CMS](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_anexo-CMS)| [medida_anexos CITES](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_anexos-CITES) | [peso_anexos CITES](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_anexos-CITES) | [soma classes](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#soma-classes) |
+
+---
 
 ### categoria
 
@@ -159,30 +262,6 @@ __Classes__
         <tr><td class="theme-label">Comentários</td><td>Os termos equivalentes listados possuem domínios específicos que devem ser considerados para eventual mapeamento.</td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
         <tr><td class="theme-label">Exemplos</td><td><code>Agropecuária; Extracao Direta:Caça/Pesca; Queimadas</td></tr>
-    </tbody>
-</table>
-
-### endemismo
-
-<table class="table table-sm table-bordered">
-    <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
-        <tr><td class="theme-label">Definição</td><td>Endemismo para Brasil.</td></tr>
-        <tr><td class="theme-label">Comentários</td><td>Os termos base listados possuem domínios específicos que devem ser considerados para eventual mapeamento. No caso do termo dwc, recomenda-se o uso de um json detalhando nome de campo e conteúdo.</td></tr>
-        <tr><td class="theme-label">Domínio</td><td></td></tr>
-        <tr><td class="theme-label">Exemplos</td><td><code>Agropecuária; Extracao Direta:Caça/Pesca; Queimadas</td></tr>
-    </tbody>
-</table>
-
-### estadoOcorrencia
-
-<table class="table table-sm table-bordered">
-    <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="https://dwc.tdwg.org/list/#dwc_locationID" target="_blank">https://dwc.tdwg.org/list/#dwc_locationID</a></td></tr>
-        <tr><td class="theme-label">Definição</td><td>Unidades Federativas onde o táxon ocorre.</td></tr>
-        <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td><code>AC</code>, <code>AL</code>, <code>AP</code>, <code>AM</code>, <code>BA</code>, <code>CE</code>, <code>ES</code>, <code>GO</code>, <code>MA</code>, <code>MT</code>, <code>MS</code>, <code>MG</code>, <code>PA</code>, <code>PB</code>, <code>PR</code>, <code>PE</code>, <code>PI</code>, <code>RJ</code>, <code>RN</code>, <code>RS</code>, <code>RO</code>, <code>RR</code>, <code>SC</code>, <code>SP</code>, <code>SE</code>, <code>TO</code>, <code>DF</td></tr>
-        <tr><td class="theme-label">Exemplos</td><td><code>MG, RJ</td></tr>
     </tbody>
 </table>
 
@@ -234,55 +313,7 @@ __Classes__
     </tbody>
 </table>
 
-### type
-
-<table class="table table-sm table-bordered">
-    <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
-        <tr><td class="theme-label">Definição</td><td>A natureza ou gênero do recurso.</td></tr>
-        <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td></td></tr>
-        <tr><td class="theme-label">Exemplos</td><td></td></tr>
-    </tbody>
-</table>
-
-### license
-
-<table class="table table-sm table-bordered">
-    <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
-        <tr><td class="theme-label">Definição</td><td>Um documento legal dando permissão oficial de uso do recurso.</td></tr>
-        <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td></td></tr>
-        <tr><td class="theme-label">Exemplos</td><td></td></tr>
-    </tbody>
-</table>
-
-### ownerInstitutionCode
-
-<table class="table table-sm table-bordered">
-    <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
-        <tr><td class="theme-label">Definição</td><td>O nome (ou acrônimo) em uso pela instituição possuidora de direitos sobre o objeto ou informação referida no registro.</td></tr>
-        <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td></td></tr>
-        <tr><td class="theme-label">Exemplos</td><td></td></tr>
-    </tbody>
-</table>
-
-### rightsHolder
-
-<table class="table table-sm table-bordered">
-    <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
-        <tr><td class="theme-label">Definição</td><td>Uma pessoa ou organização possuidora ou detentora de direitos sobre o recurso.</td></tr>
-        <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td></td></tr>
-        <tr><td class="theme-label">Exemplos</td><td></td></tr>
-    </tbody>
-</table>
-
-### medida: area distribuicao UC+TI+AM
+### medida_area distribuicao UC+TI+AM
 
 <table class="table table-sm table-bordered">
     <tbody>
@@ -294,7 +325,7 @@ __Classes__
     </tbody>
 </table>
 
-### peso: area distribuicao UC+TI+AM
+### peso_area distribuicao UC+TI+AM
 
 <table class="table table-sm table-bordered">
     <tbody>
@@ -306,7 +337,7 @@ __Classes__
     </tbody>
 </table>
 
-### medida: caverna
+### medida_caverna
 
 <table class="table table-sm table-bordered">
     <tbody>
@@ -320,7 +351,7 @@ Devido à dificuldade de determinar a extensão das cavernas, não foi possível
     </tbody>
 </table>
 
-### peso: caverna
+### peso_caverna
 
 <table class="table table-sm table-bordered">
     <tbody>
@@ -332,7 +363,7 @@ Devido à dificuldade de determinar a extensão das cavernas, não foi possível
     </tbody>
 </table>
 
-### medida: PAN
+### medida_PAN
 
 <table class="table table-sm table-bordered">
     <tbody>
@@ -501,14 +532,5 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
         <tr><td class="theme-label">Exemplos</td><td></td></tr>
     </tbody>
 </table>
-
-
-
-## Distribuição
-
-## MMA
-
-## 
-
 
 
