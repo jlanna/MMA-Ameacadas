@@ -48,7 +48,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#grupo" target="_blank">https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#grupo</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>O nome "informal" para o grupo de organismos em que o táxon é classificado. Neste caso, utiliza-se a classificação adotada pelo DESM/MMA de domínio fechado.</td></tr>
         <tr><td class="theme-label">Comentários</td><td>É uma definição de sub-conjuntos de taxa conforme necessidades específicas do MMA. O termo equivalente adotado "gmp:taxonomicCoverage:commonName" é indicado para nomes comuns aplicáveis, mas pode também ser uma descrição geral para grupos de organismos, se apropriados. E.g. pau-brasil ou peixes continentais.</td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>Anfíbios</code>, <code>Angiospermas</code>, <code>Aves</code>, <code>Briófitas</code>, <code>Gimnospermas</code>, <code>Invertebrados Aquáticos</code>, <code>Invertebrados Terrestres</code>, <code>Mamíferos</code>, <code>Peixes Continentais</code>, <code>Peixes Marinhos</code>, <code>Pteridófitas</code>, <code>Répteis</td></tr>
