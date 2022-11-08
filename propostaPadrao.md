@@ -63,7 +63,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
         <tr><td class="theme-label">identificador</td><td><a href="https://dwc.tdwg.org/list/#dwc_family" target="_blank">https://dwc.tdwg.org/list/#dwc_family</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>O nome científico completo da família em que o táxon é classificado.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td><code>Nomes válidos para o rank "Família" na Flora e Funga do Brasil e Catálogo da Fauna.</td></tr>
+        <tr><td class="theme-label">Domínio</td><td>Nomes válidos para o rank "Família" na Flora e Funga do Brasil e Catálogo da Fauna.</td></tr>
         <tr><td class="theme-label">Exemplos</td><td><code>Felidae</code>, <code>Monocleaceae</td></tr>
     </tbody>
 </table>
@@ -75,7 +75,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
         <tr><td class="theme-label">identificador</td><td><a href="https://dwc.tdwg.org/list/#dwc_genus" target="_blank">https://dwc.tdwg.org/list/#dwc_genus</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>O nome científico completo do gênero em que o táxon é classificado.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td><code>Nomes válidos para o rank "Gênero" na Flora e Funga do Brasil e Catálogo da Fauna, para a "Família" correspondente.</td></tr>
+        <tr><td class="theme-label">Domínio</td><td>Nomes válidos para o rank "Gênero" na Flora e Funga do Brasil e Catálogo da Fauna, para a "Família" correspondente.</td></tr>
         <tr><td class="theme-label">Exemplos</td><td><code>Hura</code>, <code>Puma</td></tr>
     </tbody>
 </table>
@@ -87,7 +87,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
         <tr><td class="theme-label">identificador</td><td><a href="https://dwc.tdwg.org/list/#dwc_specificEpithet" target="_blank">https://dwc.tdwg.org/list/#dwc_specificEpithet</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>O nome do epíteto específico da espécie.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td><code>Nomes válidos para o rank "Epíteto Específico" na Flora e Funga do Brasil e Catálogo da Fauna, para o "Gênero" correspondente.</td></tr>
+        <tr><td class="theme-label">Domínio</td><td>Nomes válidos para o rank "Epíteto Específico" na Flora e Funga do Brasil e Catálogo da Fauna, para o "Gênero" correspondente.</td></tr>
         <tr><td class="theme-label">Exemplos</td><td><code>crepitans</code>, <code>concolor</td></tr>
     </tbody>
 </table>
@@ -99,7 +99,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
         <tr><td class="theme-label">identificador</td><td><a href="https://dwc.tdwg.org/list/#dwc_infraspecificEpithet" target="_blank">https://dwc.tdwg.org/list/#dwc_infraspecificEpithet</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>O nome do epíteto infra específico da espécie, excluindo qualquer designação de ranque taxonômico.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td><code>Nomes válidos para o rank "Infra Espécie" na Flora e Funga do Brasil e Catálogo da Fauna, para a "Espécie" correspondente.</td></tr>
+        <tr><td class="theme-label">Domínio</td><td>Nomes válidos para o rank "Infra Espécie" na Flora e Funga do Brasil e Catálogo da Fauna, para a "Espécie" correspondente.</td></tr>
         <tr><td class="theme-label">Exemplos</td><td><code>alba</td></tr>
     </tbody>
 </table>
@@ -185,7 +185,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
     <tbody>
         <tr><td class="theme-label">identificador</td><td><a href="https://dwc.tdwg.org/terms/#dc:type" target="_blank">https://dwc.tdwg.org/terms/#dc:type</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>A natureza ou gênero do recurso.</td></tr>
-        <tr><td class="theme-label">Comentários</td><td>Recomenda-se o uso dos três campos em dwc Para definição do tipo de registro (no caso imagens), licença de uso e instituição fonte da imagem.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td></code>StillImage</code>, <code>MovingImage</code>, <code>Sound</code>, <code>PhysicalObject</code>, <code>Event</code>, <code>Text</td></tr>
         <tr><td class="theme-label">Exemplos</td><td></td></tr>
     </tbody>
@@ -197,7 +197,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
     <tbody>
         <tr><td class="theme-label">identificador</td><td><a href="[https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#license](https://dwc.tdwg.org/list/#dcterms_license)" target="_blank">https://dwc.tdwg.org/list/#dcterms_license</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Um documento legal dando permissão oficial de uso do recurso.</td></tr>
-        <tr><td class="theme-label">Comentários</td><td>Recomenda-se o uso dos três campos em dwc Para definição do tipo de registro (no caso imagens), licença de uso e instituição fonte da imagem.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
         <tr><td class="theme-label">Exemplos</td><td></td></tr>
     </tbody>
@@ -209,7 +209,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
     <tbody>
         <tr><td class="theme-label">identificador</td><td><a href="http://rs.tdwg.org/dwc/terms/ownerInstitutionCode" target="_blank">http://rs.tdwg.org/dwc/terms/ownerInstitutionCode</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>O nome (ou acrônimo) em uso pela instituição possuidora de direitos sobre o objeto ou informação referida no registro.</td></tr>
-        <tr><td class="theme-label">Comentários</td><td>Recomenda-se o uso dos três campos em dwc Para definição do tipo de registro (no caso imagens), licença de uso e instituição fonte da imagem.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
         <tr><td class="theme-label">Exemplos</td><td></td></tr>
     </tbody>
@@ -253,7 +253,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
     <tbody>
         <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#criterio" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#criterio</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Uma string tokenizada dos critérios de avaliação considerados na avaliação da espécie. Deve conter tokens de cada critério individual, separados por vírgula. Por exemplo: A seguinte string de critérios "B1ab(ii,iii,iv,v)+2ab(ii,iii,iv,v)" deve ser representada da seguinte forma: "B1a,B1bii,B1biii,B1biv,B1bv,B2a,B2bii,B2biii,B2biv,B2bv". A vírgula também pode ser subtituída por barra vertical "|".</td></tr>
-        <tr><td class="theme-label">Comentários</td><td>Este campo tem preferência sobre "RedListCriteria.manualCriteriaString". Se ambos são fornecidos, apenas este campo é considerado.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
         <tr><td class="theme-label">Exemplos</td><td><code>B2ab(iii)</code>, <code>A2c,B1ab(iii)+2ab(iii)</td></tr>
     </tbody>
@@ -433,7 +433,7 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
 • Classe 1: espécies madeireiras, da categoria VU, que ocorrem no bioma amazônico;
 • Classe 2: demais espécies da flora, listadas na Portaria MMA nº 443/2014.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td></td></tr>
+        <tr><td class="theme-label">Domínio</td><td><code>0</code>, <code>1</code>, <code>2</td></tr>
         <tr><td class="theme-label">Exemplos</td><td></td></tr>
     </tbody>
 </table>
@@ -459,7 +459,7 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
 • Classe 1: espécies com interesse sócio-econômico que se beneficiariam com a Portaria MMA 445/2014.
 • Classe 2: CR e EN de interesse econômico, com captura proibida.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td></td></tr>
+        <tr><td class="theme-label">Domínio</td><td><code>0</code>, <code>1</code>, <code>2</td></tr>
         <tr><td class="theme-label">Exemplos</td><td></td></tr>
     </tbody>
 </table>
