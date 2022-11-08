@@ -7,7 +7,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
 
 # Classes
 
-| [Táxon](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Táxon) | [Nome Vernacular](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Nome-Vernacular) | [Distribuição](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Distribuição) | [recursoAssociado](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#recursoAssociado) | [Avaliação](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Avaliação) |
+| [Táxon](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Táxon) | [Nome Vernacular](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Nome-Vernacular) | [Distribuição](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Distribuição) | [Recursos Associados](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Recursos-Associados) | [Avaliação](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Avaliação) |
 |---|---|---|---|---|
 
 ---
@@ -172,7 +172,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
 
 ---
 
-## recursoAssociado
+## Recursos Associados
 
 | [tipo](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#tipo) | [licenca](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#licenca) | [codigoInstituicaoProprietaria](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#codigoInstituicaoProprietaria) | [creditos](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#creditos) |
 |---|---|---|---|
