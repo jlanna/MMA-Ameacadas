@@ -7,7 +7,7 @@
 
 # Classes
 
-| [Táxon](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#Táxon) | [Nome Vernacular](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#Nome-Vernacular) | [Distribuição](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#Distribuição) | [recursoAssociado](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#recursoAssociado) | [Avaliação](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#Avaliação) |
+| [Táxon](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Táxon) | [Nome Vernacular](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Nome-Vernacular) | [Distribuição](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Distribuição) | [recursoAssociado](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#recursoAssociado) | [Avaliação](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#Avaliação) |
 |---|---|---|---|---|
 
 ---
@@ -15,7 +15,7 @@
 
 ## Táxon
 
-| [taxonID](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#taxonID) | [reino](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#reino) | [grupo](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#grupo) | [familia](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#familia) | [genero](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#genero) | [epitetoEspecifico](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#epitetoEspecifico) | [epitetoInfraespecifico](https://github.com/edalcin/MMA-Ameacadas/blob/main/propostaPadrao.md#epitetoInfraespecifico) |
+| [taxonID](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#taxonID) | [reino](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#reino) | [grupo](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#grupo) | [familia](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#familia) | [genero](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#genero) | [epitetoEspecifico](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#epitetoEspecifico) | [epitetoInfraespecifico](https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#epitetoInfraespecifico) |
 |---|---|---|---|---|---|---|
 
 ---
