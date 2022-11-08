@@ -352,7 +352,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
 A sugestão da reunião de especialistas foi considerar com um peso maior as cavernas classificadas como de máxima relevância. Entretanto, a ocorrência de espécies ameaçadas é um dos critérios que classifica a caverna como de máxima relevância. Portanto, todas as cavernas deste exercício são necessariamente de máxima relevância.
 Devido à dificuldade de determinar a extensão das cavernas, não foi possível calcular a área de distribuição das espécies que está coberta por cavernas, e sim presença e ausência. Dessa forma, foi atribuída Classe 2 nesse critério para todas as espécies analisadas que apresentaram sobreposição com cavernas.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
-        <tr><td class="theme-label">Domínio</td><td><code>2,5</td></tr>
+        <tr><td class="theme-label">Domínio</td><td><code>0</code>, <code>2</td></tr>
         <tr><td class="theme-label">Exemplos</td><td></td></tr>
     </tbody>
 </table>
