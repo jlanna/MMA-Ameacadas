@@ -138,7 +138,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#bioma" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#bioma</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Bioma brasileiro em que a espécie ocorre.</td></tr>
         <tr><td class="theme-label">Comentários</td><td>Não existe um termo de domínio específico nos padrões internacionais usuais. O termo equivalente dwc apontado foi adotado conforme demandas internas dos produtores.</td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>Amazônia</code>, <code>Mata Atlântica</code>, <code>Cerrado</code>, <code>Caatinga</code>, <code>Pampa</code>, <code>Pantanal</code>, <code>Marinho</td></tr>
@@ -150,7 +150,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#endemismo" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#endemismo</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Endemismo para Brasil.</td></tr>
         <tr><td class="theme-label">Comentários</td><td>Os termos base listados possuem domínios específicos que devem ser considerados para eventual mapeamento. No caso do termo dwc, recomenda-se o uso de um json detalhando nome de campo e conteúdo.</td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
@@ -183,7 +183,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://dwc.tdwg.org/terms/#dc:type" target="_blank">https://dwc.tdwg.org/terms/#dc:type</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>A natureza ou gênero do recurso.</td></tr>
         <tr><td class="theme-label">Comentários</td><td>Recomenda-se o uso dos três campos em dwc Para definição do tipo de registro (no caso imagens), licença de uso e instituição fonte da imagem.</td></tr>
         <tr><td class="theme-label">Domínio</td><td></code>StillImage</code>, <code>MovingImage</code>, <code>Sound</code>, <code>PhysicalObject</code>, <code>Event</code>, <code>Text</td></tr>
@@ -195,7 +195,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#license" target="_blank">https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#license</a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="[https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#license](https://dwc.tdwg.org/list/#dcterms_license)" target="_blank">https://dwc.tdwg.org/list/#dcterms_license</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Um documento legal dando permissão oficial de uso do recurso.</td></tr>
         <tr><td class="theme-label">Comentários</td><td>Recomenda-se o uso dos três campos em dwc Para definição do tipo de registro (no caso imagens), licença de uso e instituição fonte da imagem.</td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
@@ -239,7 +239,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#categoria" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#categoria</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Código da categoria de ameaça definida.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>CR</code>, <code>DD</code>, <code>EN</code>, <code>EW</code>, <code>EX</code>, <code>LC</code>, <code>NE</code>, <code>NR</code>, <code>NT</code>, <code>VU</td></tr>
@@ -251,7 +251,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#criterio" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#criterio</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Uma string tokenizada dos critérios de avaliação considerados na avaliação da espécie. Deve conter tokens de cada critério individual, separados por vírgula. Por exemplo: A seguinte string de critérios "B1ab(ii,iii,iv,v)+2ab(ii,iii,iv,v)" deve ser representada da seguinte forma: "B1a,B1bii,B1biii,B1biv,B1bv,B2a,B2bii,B2biii,B2biv,B2bv". A vírgula também pode ser subtituída por barra vertical "|".</td></tr>
         <tr><td class="theme-label">Comentários</td><td>Este campo tem preferência sobre "RedListCriteria.manualCriteriaString". Se ambos são fornecidos, apenas este campo é considerado.</td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
@@ -263,7 +263,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#ameacas" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#ameacas</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Descrição da ameaça.</td></tr>
         <tr><td class="theme-label">Comentários</td><td>Os termos equivalentes listados possuem domínios específicos que devem ser considerados para eventual mapeamento.</td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
@@ -275,7 +275,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#presenca-em-areas-protegidas" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#presenca-em-areas-protegidas</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Presença ou ausência em áreas protegidas.</td></tr>
         <tr><td class="theme-label">Comentários</td><td>Catálogo de UCs pode ser uma fonte de dados importante para flora. Os termos equivalentes dwc:MeasurementOrFact e dwc:measurementValue devem ser usados concomitantemente, o primeiro para descrever o campo e o segundo para o valor.</td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>Sim</code>, <code>Não</td></tr>
@@ -287,7 +287,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#plano-de-acao-nacional-para-conservacao-(pan)" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#plano-de-acao-nacional-para-conservacao-(pan)</a></td></tr>
         <tr><td class="theme-label">Definição</td><td></td></tr>
         <tr><td class="theme-label">Comentários</td><td>Os termos equivalentes listados possuem domínios específicos que devem ser considerados para eventual mapeamento.</td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
@@ -299,7 +299,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#ordenamento-pesqueiro" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#ordenamento-pesqueiro</a></td></tr>
         <tr><td class="theme-label">Definição</td><td></td></tr>
         <tr><td class="theme-label">Comentários</td><td>Os termos equivalentes listados possuem domínios específicos que devem ser considerados para eventual mapeamento.</td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
@@ -311,7 +311,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#nivel-de-protecao-na-estrategia-nacional" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#nivel-de-protecao-na-estrategia-nacional</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Os Níveis de Proteção variam de 0 a 5, em que 0 demonstra ausência de medidas de conservação e 5 demonstra que a espécie está suficientemente coberta por medidas de conservação.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
@@ -323,7 +323,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_area-distribuicao-UC+TI+AM" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_area-distribuicao-UC+TI+AM</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Esta medida se refere ao grau de proteção de habitat da espécie em Unidades de Conservação, Terras Indígenas e Áreas Militares. Os cálculos utilizados nesta medida consideram o grau de efetividade de cada área protegida calculado pelo SAMGe/ICMBio e o grau de sobreposição da área de ocorrência da espécie com estas áreas protegidas. Detalhes do cálculo encontram-se no documento intitulado "Descricao_metodologia_analiseefetividade_nov18".</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>0</code>, <code>1</code>, <code>2</code>, <code>3</td></tr>
@@ -335,7 +335,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_area-distribuicao-UC+TI+AM" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_area-distribuicao-UC+TI+AM</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Peso proporcional ao potencial de contribuição da medida para melhorar o status de conservação da espécie, que para esta medida de conservação representa o valor 2,5.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>2,5</td></tr>
@@ -347,7 +347,7 @@
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_caverna" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_caverna</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>As análises espaciais de ocorrência das espécies em cavernas foram descritas no item anterior. A lista das espécies ameaçadas que ocorrem em cavernas foi fornecida pelo CECAV/ICMBio.
 A sugestão da reunião de especialistas foi considerar com um peso maior as cavernas classificadas como de máxima relevância. Entretanto, a ocorrência de espécies ameaçadas é um dos critérios que classifica a caverna como de máxima relevância. Portanto, todas as cavernas deste exercício são necessariamente de máxima relevância.
 Devido à dificuldade de determinar a extensão das cavernas, não foi possível calcular a área de distribuição das espécies que está coberta por cavernas, e sim presença e ausência. Dessa forma, foi atribuída Classe 2 nesse critério para todas as espécies analisadas que apresentaram sobreposição com cavernas.</td></tr>
@@ -361,7 +361,7 @@ Devido à dificuldade de determinar a extensão das cavernas, não foi possível
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_caverna" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_caverna</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Peso proporcional ao potencial de contribuição da medida para melhorar o status de conservação da espécie.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>2</td></tr>
@@ -373,7 +373,7 @@ Devido à dificuldade de determinar a extensão das cavernas, não foi possível
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_PAN" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_PAN</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>A efetividade dos PAN foi avaliada de acordo com seu grau de implementação:
 • Classe 1: espécies que estão em PAN não avaliado; espécies em PAN encerrados, aguardando novo ciclo; espécies em PAN com menos de 40% de implementação;
 • Classe 2: espécies que estão em PAN com grau de implementação igual ou maior que 40%;
@@ -388,7 +388,7 @@ Devido à dificuldade de determinar a extensão das cavernas, não foi possível
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_PAN" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_PAN</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Peso proporcional ao potencial de contribuição da medida para melhorar o status de conservação da espécie.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>2</td></tr>
@@ -400,7 +400,7 @@ Devido à dificuldade de determinar a extensão das cavernas, não foi possível
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_ordenamento-pesqueiro" target="_blank">medida_ordenamento-pesqueiro</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>A equipe do DESP/MMA realizou um levantamento das normas de ordenamento pesqueiro vigentes, considerando também moratórias e planos de recuperação. O critério considerado foi o seguinte:
 • Classe 1: espécie é indiretamente beneficiada pela medida;
 • Classe 2: ordenamento direcionado às práticas que afetam diretamente as espécies
@@ -415,7 +415,7 @@ Devido à dificuldade de determinar a extensão das cavernas, não foi possível
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_ordenamento-pesqueiro" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_ordenamento-pesqueiro</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Peso proporcional ao potencial de contribuição da medida para melhorar o status de conservação da espécie.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>1</td></tr>
@@ -427,7 +427,7 @@ Devido à dificuldade de determinar a extensão das cavernas, não foi possível
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_portaria-443" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_portaria-443</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>A Portaria MMA nº 443/2014, que estabelece a lista das espécies ameaçadas da flora, foi considerada como uma medida de conservação pelo fato de proibir coleta, corte, transporte, armazenamento, manejo, beneficiamento e comercialização das espécies listadas.
 Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulnerável (VU), desde que regulamentada. As espécies madeireiras desta categoria que estão no bioma Amazônia foram regulamentadas, o que permite seu corte. Portanto, essas espécies receberam uma pontuação menor nesse critério:
 • Classe 1: espécies madeireiras, da categoria VU, que ocorrem no bioma amazônico;
@@ -442,7 +442,7 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_portaria-443" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_portaria-443</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Peso proporcional ao potencial de contribuição da medida para melhorar o status de conservação da espécie.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>2</td></tr>
@@ -454,7 +454,7 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_portaria-445" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_portaria-445</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>A inclusão da Portaria MMA n° 445/2014 segue o mesmo princípio que o da Portaria MMA nº 443/2014, considerando que a lista das espécies de peixes e invertebrados aquáticos ameaçados também oferece proteção diferenciada a estas espécies em relação às espécies não listadas considerando as restrições de uso previstas. O critério considerado foi o seguinte:
 • Classe 1: espécies com interesse sócio-econômico que se beneficiariam com a Portaria MMA 445/2014.
 • Classe 2: CR e EN de interesse econômico, com captura proibida.</td></tr>
@@ -468,7 +468,7 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_portaria-445" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_portaria-445</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Peso proporcional ao potencial de contribuição da medida para melhorar o status de conservação da espécie.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>2</td></tr>
@@ -480,7 +480,7 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_anexo-CMS" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_anexo-CMS</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Anexo CMS foi considerado como medida de conservação segundo o seguinte critério:
 • Classe 2: espécies listadas no Anexo II da CMS;
 • Classe 3: espécies listadas no Anexo I da CMS.</td></tr>
@@ -494,7 +494,7 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_anexo-CMS" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_anexo-CMS</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Peso proporcional ao potencial de contribuição da medida para melhorar o status de conservação da espécie.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>1</td></tr>
@@ -506,7 +506,7 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_anexos-CITES" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#medida_anexos-CITES</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Anexos da CITES foram considerados como medidas de conservação segundo o seguinte critério:
 • Classe 3: espécies listadas nos Anexos da CITES.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
@@ -519,7 +519,7 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_anexos-CITES" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#peso_anexos-CITES</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Peso proporcional ao potencial de contribuição da medida para melhorar o status de conservação da espécie.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>1</td></tr>
@@ -531,7 +531,7 @@ Todavia, o Art. 3° permite uma exceção para as espécies da categoria Vulner�
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="" target="_blank"></a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#soma-classes" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/propostaPadrao.md#soma-classes</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Soma dos valores (após multiplicação na coluna vizinha) relativos às medidas de conservação listadas com exceção da Portaria 445 e Anexo CMS.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
