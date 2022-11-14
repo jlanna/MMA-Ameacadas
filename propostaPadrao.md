@@ -154,7 +154,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
         <tr><td class="theme-label">Definição</td><td>Endemismo para Brasil.</td></tr>
         <tr><td class="theme-label">Comentários</td><td>Os termos base listados possuem domínios específicos que devem ser considerados para eventual mapeamento. No caso do termo dwc, recomenda-se o uso de um json detalhando nome de campo e conteúdo.</td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
-        <tr><td class="theme-label">Exemplos</td><td><code>Agropecuária; Extracao Direta:Caça/Pesca; Queimadas</td></tr>
+        <tr><td class="theme-label">Exemplos</td><td></td></tr>
     </tbody>
 </table>
 
