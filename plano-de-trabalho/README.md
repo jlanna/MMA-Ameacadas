@@ -1,4 +1,4 @@
-<center><img src="https://photos.google.com/album/AF1QipNdi-5w5mCHlsUgw8jIlawnXl2XFQI61m7nuTxQ/photo/AF1QipNYpiNGJOcdF6svKhV5fAlHv4Mq8qT219f49n48" width="300"></center>
+<center><img src="https://photos.google.com/album/AF1QipNdi-5w5mCHlsUgw8jIlawnXl2XFQI61m7nuTxQ" width="300"></center>
 
 # Plano de Trabalho
 
