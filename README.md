@@ -1,4 +1,3 @@
-<center><img src="https://github.com/jlanna/images/blob/main/logo_pro_especies.png" width="300"></center>
 
 # [Em construção] Proposta de Arquitetura de Dados e Mecanismos de Publicação de Informações sobre Espécies Ameaçadas no Ministério do Meio Ambiente (MMA)
 
