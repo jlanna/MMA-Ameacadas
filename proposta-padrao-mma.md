@@ -287,7 +287,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
 
 <table class="table table-sm table-bordered">
     <tbody>
-        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/proposta-padrao-mma.md#plano-de-acao-nacional-para-conservacao-(pan)" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/proposta-padrao-mma.md#plano-de-acao-nacional-para-conservacao-(pan)</a></td></tr>
+        <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/proposta-padrao-mma.md#plano-de-acao-nacional-para-conservacao-pan" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/proposta-padrao-mma.md#plano-de-acao-nacional-para-conservacao-pan</a></td></tr>
         <tr><td class="theme-label">Definição</td><td></td></tr>
         <tr><td class="theme-label">Comentários</td><td>Os termos equivalentes listados possuem domínios específicos que devem ser considerados para eventual mapeamento.</td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
