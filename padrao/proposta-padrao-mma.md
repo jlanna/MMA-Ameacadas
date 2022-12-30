@@ -140,7 +140,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
     <tbody>
         <tr><td class="theme-label">identificador</td><td><a href="https://github.com/jlanna/MMA-Ameacadas/blob/main/padrao/proposta-padrao-mma.md#bioma" target="_blank">https://github.com/jlanna/MMA-Ameacadas/blob/main/padrao/proposta-padrao-mma.md#bioma</a></td></tr>
         <tr><td class="theme-label">Definição</td><td>Bioma brasileiro em que a espécie ocorre.</td></tr>
-        <tr><td class="theme-label">Comentários</td><td>Não existe um termo de domínio específico nos padrões internacionais usuais. O termo equivalente dwc apontado foi adotado conforme demandas internas dos produtores.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td>Não existe um termo de domínio específico nos padrões internacionais usuais.</td></tr>
         <tr><td class="theme-label">Domínio</td><td><code>Amazônia</code>, <code>Mata Atlântica</code>, <code>Cerrado</code>, <code>Caatinga</code>, <code>Pampa</code>, <code>Pantanal</code>, <code>Marinho</td></tr>
         <tr><td class="theme-label">Exemplos</td><td><code>Pantanal</td></tr>
     </tbody>
