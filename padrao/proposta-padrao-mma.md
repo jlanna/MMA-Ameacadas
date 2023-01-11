@@ -108,7 +108,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
 
 ## Nome Vernacular
 
-| [nomeVernacular](https://github.com/jlanna/MMA-Ameacadas/blob/main/padrao/proposta-padrao-mma.md#nomeVernacular) |
+| [nomeVernacular](https://github.com/jlanna/MMA-Ameacadas/blob/main/padrao/proposta-padrao-mma.md#nomeVernacular) | [idioma](https://github.com/jlanna/MMA-Ameacadas/blob/main/padrao/proposta-padrao-mma.md#idioma) | [localidade](https://github.com/jlanna/MMA-Ameacadas/blob/main/padrao/proposta-padrao-mma.md#localidade) |
 |---|
 
 ---
@@ -122,6 +122,30 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
         <tr><td class="theme-label">Exemplos</td><td><code>pau-brasil</td></tr>
+    </tbody>
+</table>
+
+### idioma
+
+<table class="table table-sm table-bordered">
+    <tbody>
+        <tr><td class="theme-label">identificador</td><td><a href="https://dwc.tdwg.org/terms/#dc:language" target="_blank">https://dwc.tdwg.org/terms/#dc:language</a></td></tr>
+        <tr><td class="theme-label">Definição</td><td>Idioma relacionado ao campo mma:nomeVernalucar.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td></td></tr>
+        <tr><td class="theme-label">Domínio</td><td>Recomenda-se como melhores práticas o uso de vocabulários controlados como RFC 5646.</td></tr>
+        <tr><td class="theme-label">Exemplos</td><td><code>pt (para Português), en (para Inglês), es (para Espanhol)</td></tr>
+    </tbody>
+</table>
+
+### localidade
+
+<table class="table table-sm table-bordered">
+    <tbody>
+        <tr><td class="theme-label">identificador</td><td><a href="https://dwc.tdwg.org/terms/#dwc:locality" target="_blank">https://dwc.tdwg.org/terms/#dwc:locality</a></td></tr>
+        <tr><td class="theme-label">Definição</td><td>Localidade onde é utilizado o mma.nomeVernacular.</td></tr>
+        <tr><td class="theme-label">Comentários</td><td></td></tr>
+        <tr><td class="theme-label">Domínio</td><td></td></tr>
+        <tr><td class="theme-label">Exemplos</td><td><code>Sudeste, Bahia, SP, RJ e SP</td></tr>
     </tbody>
 </table>
 
