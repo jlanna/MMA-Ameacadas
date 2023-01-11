@@ -133,7 +133,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
         <tr><td class="theme-label">Definição</td><td>Idioma relacionado ao campo mma:nomeVernalucar.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td>Recomenda-se como melhores práticas o uso de vocabulários controlados como RFC 5646.</td></tr>
-        <tr><td class="theme-label">Exemplos</td><td><code>pt (para Português), en (para Inglês), es (para Espanhol)</td></tr>
+        <tr><td class="theme-label">Exemplos</td><td><code>pt (para Português)</code>, <code>en (para Inglês)</code>, <code>es (para Espanhol)</td></tr>
     </tbody>
 </table>
 
@@ -145,7 +145,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
         <tr><td class="theme-label">Definição</td><td>Localidade onde é utilizado o mma.nomeVernacular.</td></tr>
         <tr><td class="theme-label">Comentários</td><td></td></tr>
         <tr><td class="theme-label">Domínio</td><td></td></tr>
-        <tr><td class="theme-label">Exemplos</td><td><code>Sudeste, Bahia, SP, RJ e SP</td></tr>
+        <tr><td class="theme-label">Exemplos</td><td><code>Sudeste</code>, <code>Bahia</code>, <code>SP</code>, <code>RJ</code>, <code>SP</td></tr>
     </tbody>
 </table>
 
