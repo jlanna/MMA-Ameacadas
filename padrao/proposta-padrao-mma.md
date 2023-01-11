@@ -109,7 +109,7 @@ Proposta de padrão de dados apresentada ao Departamento de Espécies do Minist�
 ## Nome Vernacular
 
 | [nomeVernacular](https://github.com/jlanna/MMA-Ameacadas/blob/main/padrao/proposta-padrao-mma.md#nomeVernacular) | [idioma](https://github.com/jlanna/MMA-Ameacadas/blob/main/padrao/proposta-padrao-mma.md#idioma) | [localidade](https://github.com/jlanna/MMA-Ameacadas/blob/main/padrao/proposta-padrao-mma.md#localidade) |
-|---|
+|---|---|---|
 
 ---
 
